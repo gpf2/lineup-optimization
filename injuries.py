@@ -21,36 +21,39 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-players = [
-    "Patrick Mahomes", "Tyreek Hill", "Christian McCaffrey", "Nick Bolton",
-]
+def get_weekly_injuries(week):
+    url = f"https://www.fftoday.com/nfl/24_inactives_wk{week}.html"
+    headers = {
+        "User-Agent": "Mozilla/5.0"
+    }
+    response = requests.get(url, headers=headers)
+    soup = BeautifulSoup(response.content, "html.parser")
 
-injuries = {player: [] for player in players}
+    inactive_players = []
 
-def get_weekly_injuries(week_num):
-    url = f"https://www.nfl.com/injuries/league/2024/reg{week_num}"
-    headers = {"User-Agent": "Mozilla/5.0"}
-    res = requests.get(url, headers=headers)
-    soup = BeautifulSoup(res.content, 'html.parser')
+    for ul in soup.find_all("ul"):
+        for li in ul.find_all("li"):
+            player_info = li.get_text(strip=True)
+            parts = player_info.split()
+            name = " ".join(parts[1:])
+            inactive_players.append(name)
 
-    tables = soup.find_all("table")
+    return inactive_players
 
-    injured_players = set()
-    for table in tables:
-        for row in table.find_all("tr")[1:]:
-            columns = row.find_all("td")
-            if columns:
-                name = columns[0].get_text(strip=True)
-                injured_players.add(name.lower())
-    return injured_players
-
-for week in range(1, 15):
-    print(week)
-    injured_players = get_weekly_injuries(week)
+def get_injuries(roster):
+    injuries = {player: [] for player in roster}
+    for week in range(1, 5):
+        print(week)
+        injured_players = get_weekly_injuries(week)
+        
+        for player in roster:
+            for injured in injured_players:
+                if player in injured:
+                    injuries[player].append(week)
+                    break
     
-    for player in players:
-        if player.lower() in injured_players:
-            injuries[player].append(week)
+    print(injuries)
+    with open("injuries.json", "w") as f:
+        json.dump(injuries, f, indent=4)
 
-with open("injuries.json", "w") as f:
-    json.dump(injuries, f, indent=4)
+get_injuries(["Taron Johnson"])
