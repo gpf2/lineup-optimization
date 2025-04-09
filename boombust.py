@@ -7,14 +7,16 @@ import time
 
 def scrape_boom_bust_report(year):
     positions = ["QB", "RB", "WR", "TE"]
-    base_url = "https://www.fantasypros.com/nfl/reports/boom-bust-{}.php?year={}"
     res = {}
     options = webdriver.ChromeOptions()
     options.add_argument("--headless")
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
     for pos in positions:
-        url = base_url.format(pos.lower(), year)
+        if pos == "QB":
+            url = f"https://www.fantasypros.com/nfl/reports/boom-bust-qb.php?year={year}"
+        else:
+            url = f"https://www.fantasypros.com/nfl/reports/ppr-boom-bust-{pos.lower()}.php?year={year}"
         print(f"Scraping {pos} data for {year}...")
         driver.get(url)
         time.sleep(5)
@@ -58,3 +60,4 @@ def scrape_boom_bust_report(year):
 data = scrape_boom_bust_report(2024)
 with open("boom_bust_2024.json", "w") as f:
     json.dump(data, f, indent=4)
+    
