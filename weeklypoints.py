@@ -5,8 +5,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 import json
 import time
 
-def scrape_weekly_scores(year=2024, scoring="ppr"):
-    url = f"https://www.fantasypros.com/nfl/reports/leaders/{scoring}.php?year={year}"
+def scrape_weekly_scores(year):
+    url = f"https://www.fantasypros.com/nfl/reports/leaders/ppr.php?year={year}"
     print(f"Scraping weekly scores from: {url}")
 
     options = webdriver.ChromeOptions()
@@ -14,7 +14,6 @@ def scrape_weekly_scores(year=2024, scoring="ppr"):
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     driver.get(url)
     time.sleep(5) 
-
     res = {}
 
     try:
@@ -29,16 +28,18 @@ def scrape_weekly_scores(year=2024, scoring="ppr"):
             name = cols[1].text.strip()
             pos = cols[2].text.strip()
             weekly_points = {}
-            
-            for week in range(1, 19):
-                cell_text = cols[2 + week].text.strip()
+
+            for week in range(1,18):  
+                cell_text = cols[3 + week].text.strip()
+                week_number = str(week)
+
                 if cell_text == "BYE" or cell_text == "":
-                    weekly_points[str(week)] = None
+                    weekly_points[week_number] = None
                 else:
                     try:
-                        weekly_points[str(week)] = float(cell_text)
+                        weekly_points[week_number] = float(cell_text)
                     except ValueError:
-                        weekly_points[str(week)] = None
+                        weekly_points[week_number] = None
 
             avg = float(cols[-2].text.strip())
             ttl = float(cols[-1].text.strip())
@@ -55,7 +56,7 @@ def scrape_weekly_scores(year=2024, scoring="ppr"):
     driver.quit()
     return res
 
-data = scrape_weekly_scores(year=2024)
+data = scrape_weekly_scores(2024)
 
 with open("weekly_fantasy_scores_2024.json", "w") as f:
     json.dump(data, f, indent=4)
