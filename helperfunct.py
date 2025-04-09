@@ -2,7 +2,10 @@ import json
 from weeklypoints import *
 import os
 
-def calculate_lineup_score(lineup, json_path, year, week):
+# Calculates the fantasy score for a given lineup during a specified week
+# Provide a lineup in the following format
+# lineup = ["Player Name", "Player Name", ...]
+def calculate_lineup_score(lineup, year, week):
     json_path = f"weekly_fantasy_scores_{year}.json"
     if not os.path.exists(json_path):
         print(f"Scraping weekly scores for {year}")
@@ -18,7 +21,7 @@ def calculate_lineup_score(lineup, json_path, year, week):
 
     total_score = 0.0
     breakdown = {}
-    
+
     print(f"Calculating lineup fantasy score for week {week}")
     for player in lineup:
         if player not in data:
@@ -40,3 +43,26 @@ def calculate_lineup_score(lineup, json_path, year, week):
             breakdown[player] = score
 
     return total_score, breakdown
+
+
+# Generates a random fantasy roster during a specified year (Lineup + bench)
+# constraints for lineup (9 players):
+# 1 QB
+# 2 WR
+# 2 RB
+# 1 TE
+# 1 FLEX: WR/RB/TE
+# 1 DEF/ST
+# 1 K
+# Bench constraints (7 players):
+# 7 spots for any position
+# usually 1 QB, 2/3 WR, 2/3 RB, 0/1 TE
+# so roster should have 16 players
+
+# This will generate a fully random bench TODO
+def generate_random_roster(year):
+    return
+
+# This will generate a bench based on typical constraints TODO
+def generate_roster(year):
+    return
