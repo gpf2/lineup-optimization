@@ -42,7 +42,7 @@ def get_weekly_injuries(week):
 
 def get_injuries(roster):
     injuries = {player: [] for player in roster}
-    for week in range(1, 5):
+    for week in range(1, 15):
         print(week)
         injured_players = get_weekly_injuries(week)
         
@@ -56,4 +56,8 @@ def get_injuries(roster):
     with open("injuries.json", "w") as f:
         json.dump(injuries, f, indent=4)
 
-get_injuries(["Taron Johnson"])
+players = ["Jalen Hurts", "Tua Tagovailoa", "Christian McCaffrey", "Breece Hall",
+           "De'Von Achane", "Isiah Pacheco", "CeeDee Lamb", "Chris Olave",
+           "Christian Kirk", "George Pickens", "T.J. Hockenson", "Dalton Kincaid",
+           "Baltimore Ravens", "Philadelphia Eagles", "Jake Elliott", "Brandon McManus"]
+get_injuries(players)

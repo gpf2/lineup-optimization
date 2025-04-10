@@ -32,7 +32,7 @@ def get_projections(roster):
     players_search = [p.replace(" ", "+") for p in players_search]
 
 
-    for week in range(1,2):
+    for week in range(1,15):
         print(week)
         for i in range(len(players_search)):
             player = players_search[i]
@@ -49,12 +49,14 @@ def get_projections(roster):
                 points[name].append(fpts)
             except:
                 points[roster[i]].append(0.0)
-            print(points)
 
     driver.quit()
 
     with open("points.json", "w") as f:
         json.dump(points, f, indent=4)
-
-get_projections(["Josh Allen"])
+players = ["Jalen Hurts", "Tua Tagovailoa", "Christian McCaffrey", "Breece Hall",
+           "De'Von Achane", "Isiah Pacheco", "CeeDee Lamb", "Chris Olave",
+           "Christian Kirk", "George Pickens", "T.J. Hockenson", "Dalton Kincaid",
+           "Baltimore Ravens", "Philadelphia Eagles", "Jake Elliott", "Brandon McManus"]
+get_projections(players)
 
