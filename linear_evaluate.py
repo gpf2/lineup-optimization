@@ -1,13 +1,29 @@
-#given a roster and a week, determine the actual # of fantasy points scored
+import json
+from linear_interior import *
+from stochastic_montecarlo import generate_valid_rosters
 
-from stochastic_montecarlo import *
+#checks if a returned roster is actually valid
+def is_valid_roster(roster):
+    positions = ['QB', 'RB', 'RB', 'WR', 'WR', 'TE', 'K', 'DST', 'FLEX']
+    for player in roster:
+        curr_pos = players[player]["position"]
+        if curr_pos in positions:
+            positions.remove(curr_pos)
+        elif curr_pos not in positions and curr_pos in {'RB', 'WR', 'TE'}:
+            positions.remove('FLEX')
+        else:
+            return False
+    
+    return len(positions)==0
 
+rosters = generate_valid_rosters(players)
 for week in range(1, 15):
-    #get monte carlo roster
-    roster, expected_score, rosters = monte_carlo_optimization(players, week)
+    #get lp roster
+    roster, expected_score = lp_optimization(players, week)
+    print(is_valid_roster(roster))
     print("Guessed score: ", expected_score)
 
-    #compare actual scored points vs what monte carlo guessed
+    #compare actual scored points vs what lp guessed
     total_score = 0
     for player in roster:
         total_score+=(players[player]["scored points"])[week-1]
@@ -49,8 +65,6 @@ for week in range(1, 15):
     if week>1:
         for player in roster:
             proj, guess, score = players[player]["guessed scores"]
-            proj = proj/(len(rosters)*num_iterations)
-            guess = guess/(len(rosters)*num_iterations)
 
             #update weights for guess vs projected points
             actual_score = (players[player]["scored points"])[week-1]
@@ -60,14 +74,4 @@ for week in range(1, 15):
             else:
                 players[player]["weights"][1]-=0.05
                 players[player]["weights"][0]+=0.05
-
-            #updated weights for boom bust
-            if actual_score > proj and proj>0:
-                ratio = actual_score/proj
-                ratio = ratio/10
-                players[player]["weights"][2]+=ratio
-            elif actual_score < proj and proj>0:
-                ratio = actual_score/proj
-                ratio = ratio/10
-                players[player]["weights"][3]-=ratio
     players[player]["guessed scores"] = [0, 0, 0]

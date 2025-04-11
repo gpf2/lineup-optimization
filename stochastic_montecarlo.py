@@ -35,7 +35,7 @@ def simulate_player_score(player, week):
         return projected, past_guess, base*random.uniform(p["weights"][2], p["weights"][2]+0.1)
     #if boom, scale the base down a little
     elif prob < p['boombust'][1]:
-        return projected, past_guess, base * random.uniform(p["weights"][3], p["weights"][3]+0.1)
+        return projected, past_guess, base*random.uniform(p["weights"][3]-0.1, p["weights"][3])
     return projected, past_guess, base
 
 def generate_valid_rosters(players):
@@ -156,5 +156,5 @@ for p in players:
         players[p]["boombust"] = (info["Boom"], info["Bust"])
     else:
         players[p]["boombust"] = (0,0)
-    players[p]["weights"] = [0.5, 0.5, 1.1, 0.8]
+    players[p]["weights"] = [0.5, 0.5, 1.1, 0.9]
     players[p]["guessed scores"] = [0, 0, 0]
