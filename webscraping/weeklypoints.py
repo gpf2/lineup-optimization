@@ -56,7 +56,7 @@ def scrape_weekly_scores(year):
     driver.quit()
     return res
 
-data = scrape_weekly_scores(2024)
+# data = scrape_weekly_scores(2024)
 
-with open("weekly_fantasy_scores_2024.json", "w") as f:
-    json.dump(data, f, indent=4)
+# with open("weekly_fantasy_scores_2024.json", "w") as f:
+#     json.dump(data, f, indent=4)
