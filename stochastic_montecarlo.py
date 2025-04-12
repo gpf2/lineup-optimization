@@ -5,10 +5,11 @@ import json
 
 num_iterations = 1000
 
+
 #maybe compare past predicted points to past actual scores to see how much to
 #weight the past_guess vs the current prediction
 #also should try and do some optimization for weights
-def simulate_player_score(player, week):
+def simulate_player_score(players, player, week):
     p = players[player]
     
     #if its the first week, only account for the projected points
@@ -80,7 +81,7 @@ def monte_carlo_optimization(players, week):
         for roster in valid_rosters:
             total_score = 0
             for p in roster:
-                proj, guess, score = simulate_player_score(p, week)
+                proj, guess, score = simulate_player_score(players, p, week)
                 #track the projected/past guess score for weight updates
                 if week!=1:
                     players[p]["guessed scores"][0] += proj
@@ -100,61 +101,3 @@ def monte_carlo_optimization(players, week):
 
     return best_roster, best_score, valid_rosters
 
-players = {
-    "Jalen Hurts": {"position": "QB"},
-    "Tua Tagovailoa": {"position": "QB"},
-
-    "Christian McCaffrey": {"position": "RB"},
-    "Breece Hall": {"position": "RB"},
-    "De'Von Achane": {"position": "RB"},
-    "Isiah Pacheco": {"position": "RB"},
-
-    "CeeDee Lamb": {"position": "WR"},
-    "Chris Olave": {"position": "WR"},
-    "Christian Kirk": {"position": "WR"},
-    "George Pickens": {"position": "WR"},
-
-    "T.J. Hockenson": {"position": "TE"},
-    "Dalton Kincaid": {"position": "TE"},
-
-    "Baltimore Ravens": {"position": "DST"},
-    "Philadelphia Eagles": {"position": "DST"},
-
-    "Jake Elliott" : {"position": "K"},
-    "Brandon McManus" : {"position": "K"},
-}
-
-#add the projected points for each week to each players dictionary
-with open('points.json', 'r') as file:
-    data = json.load(file)
-for p in players:
-    players[p]["projected points"] = data[p]
-
-#add the actual scored points for each week to each players dictionary
-with open('weekly_fantasy_scores_2024.json', 'r') as file:
-    data = json.load(file)
-#replace none values with 0
-for key, value in data.items():
-    points_scored = value["WeeklyPoints"]
-    for i in range(1,len(points_scored), 1):
-        if points_scored[str(i)]==None:
-            points_scored[str(i)]=0.0
-for p in players:
-    info = (data[p])["WeeklyPoints"]
-    scores = []
-    for i in range(1,len(info), 1):
-        scores.append(info[str(i)])
-    players[p]["scored points"] = scores
-
-#add the boombust each players dictionary
-#initialize the weights and the score trackers
-with open('boom_bust_2024.json', 'r') as file:
-    data = json.load(file)
-for p in players:
-    if p in data:
-        info = (data[p])["2024"]
-        players[p]["boombust"] = (info["Boom"], info["Bust"])
-    else:
-        players[p]["boombust"] = (0,0)
-    players[p]["weights"] = [0.5, 0.5, 1.1, 0.9]
-    players[p]["guessed scores"] = [0, 0, 0]

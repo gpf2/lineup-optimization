@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 import json
 
 projected_points = {}
+'''
 for week in range(1, 19):
     print(week)
     options = Options()
@@ -48,8 +49,8 @@ for week in range(1, 19):
             break
 
     driver.quit()
-
-rosters = []
+'''
+rosters = ['Brandon Aubrey', 'Chris Boswell', 'Cameron Dicker', "Ka'imi Fairbairn", 'Jason Sanders', 'Chase McLaughlin', 'Jake Bates', 'Wil Lutz', 'Tyler Bass', 'Daniel Carlson', 'Justin Tucker', 'Jake Elliott', 'Jason Myers', 'Matt Gay', 'Joshua Karty', 'Blake Grupe', 'Will Reichard', 'Cam Little', 'Chad Ryland', 'Younghoe Koo', 'Joey Slye', 'Jake Moody', 'Austin Seibert', 'Cairo Santos', 'Nick Folk', 'Eddy Pineiro', 'Harrison Butker', 'Brandon McManus', 'Evan McPherson', 'Dustin Hopkins', 'Greg Joseph', 'Anders Carlson', 'Brayden Narveson', 'Matthew Wright', 'Graham Gano', 'Parker Romo', 'Cade York', 'Greg Zuerlein', 'Zane Gonzalez', 'Matt Prater', 'Riley Patterson', 'Spencer Shrader', 'Jude McAtamney', 'Jack Browning']
 def scrape_all_rosters():
     url = "https://www.nfl.com/sitemap/html/rosters/2024/"
     response = requests.get(url)
@@ -64,7 +65,7 @@ def scrape_all_rosters():
         rosters.append(team_name)
         print(team_name)
         time.sleep(1)
-scrape_all_rosters()
+#scrape_all_rosters()
 
 options = Options()
 options.add_argument("--headless")
@@ -94,5 +95,5 @@ for week in range(1,19):
 
 driver.quit()
 
-with open("points.json", "w") as f:
+with open("kicker_points.json", "w") as f:
     json.dump(projected_points, f, indent=4)

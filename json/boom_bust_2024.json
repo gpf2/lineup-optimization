@@ -1,0 +1,7622 @@
+{
+    "Lamar Jackson": {
+        "Position": "QB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.31,
+            "Top 6": 0.56,
+            "Top 12": 0.88,
+            "Bust": 0.0,
+            "Other": 0.13,
+            "Consistency": 1.0
+        }
+    },
+    "Josh Allen": {
+        "Position": "QB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.25,
+            "Top 6": 0.44,
+            "Top 12": 0.75,
+            "Bust": 0.25,
+            "Other": 0.0,
+            "Consistency": 0.75
+        }
+    },
+    "Joe Burrow": {
+        "Position": "QB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.31,
+            "Top 6": 0.44,
+            "Top 12": 0.69,
+            "Bust": 0.19,
+            "Other": 0.13,
+            "Consistency": 0.81
+        }
+    },
+    "Jayden Daniels": {
+        "Position": "QB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.25,
+            "Top 6": 0.44,
+            "Top 12": 0.75,
+            "Bust": 0.25,
+            "Other": 0.0,
+            "Consistency": 0.75
+        }
+    },
+    "Baker Mayfield": {
+        "Position": "QB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.38,
+            "Top 6": 0.44,
+            "Top 12": 0.69,
+            "Bust": 0.19,
+            "Other": 0.13,
+            "Consistency": 0.81
+        }
+    },
+    "Jared Goff": {
+        "Position": "QB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.13,
+            "Top 6": 0.38,
+            "Top 12": 0.5,
+            "Bust": 0.31,
+            "Other": 0.19,
+            "Consistency": 0.69
+        }
+    },
+    "Jalen Hurts": {
+        "Position": "QB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.2,
+            "Top 6": 0.4,
+            "Top 12": 0.53,
+            "Bust": 0.13,
+            "Other": 0.33,
+            "Consistency": 0.87
+        }
+    },
+    "Sam Darnold": {
+        "Position": "QB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.13,
+            "Top 12": 0.63,
+            "Bust": 0.19,
+            "Other": 0.19,
+            "Consistency": 0.81
+        }
+    },
+    "Bo Nix": {
+        "Position": "QB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.13,
+            "Top 6": 0.13,
+            "Top 12": 0.5,
+            "Bust": 0.31,
+            "Other": 0.19,
+            "Consistency": 0.69
+        }
+    },
+    "Patrick Mahomes II": {
+        "Position": "QB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.25,
+            "Top 12": 0.31,
+            "Bust": 0.31,
+            "Other": 0.38,
+            "Consistency": 0.69
+        }
+    },
+    "Kyler Murray": {
+        "Position": "QB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.13,
+            "Top 6": 0.19,
+            "Top 12": 0.44,
+            "Bust": 0.38,
+            "Other": 0.19,
+            "Consistency": 0.62
+        }
+    },
+    "Brock Purdy": {
+        "Position": "QB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.07,
+            "Top 6": 0.33,
+            "Top 12": 0.6,
+            "Bust": 0.2,
+            "Other": 0.2,
+            "Consistency": 0.8
+        }
+    },
+    "Justin Herbert": {
+        "Position": "QB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.19,
+            "Top 12": 0.38,
+            "Bust": 0.56,
+            "Other": 0.06,
+            "Consistency": 0.44
+        }
+    },
+    "Geno Smith": {
+        "Position": "QB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.06,
+            "Top 12": 0.31,
+            "Bust": 0.5,
+            "Other": 0.19,
+            "Consistency": 0.5
+        }
+    },
+    "Caleb Williams": {
+        "Position": "QB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.19,
+            "Top 12": 0.38,
+            "Bust": 0.56,
+            "Other": 0.06,
+            "Consistency": 0.44
+        }
+    },
+    "Jordan Love": {
+        "Position": "QB",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.07,
+            "Top 6": 0.14,
+            "Top 12": 0.36,
+            "Bust": 0.43,
+            "Other": 0.21,
+            "Consistency": 0.57
+        }
+    },
+    "Aaron Rodgers": {
+        "Position": "QB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.06,
+            "Top 12": 0.25,
+            "Bust": 0.38,
+            "Other": 0.38,
+            "Consistency": 0.62
+        }
+    },
+    "C.J. Stroud": {
+        "Position": "QB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.13,
+            "Bust": 0.63,
+            "Other": 0.25,
+            "Consistency": 0.37
+        }
+    },
+    "Matthew Stafford": {
+        "Position": "QB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.13,
+            "Top 12": 0.31,
+            "Bust": 0.56,
+            "Other": 0.13,
+            "Consistency": 0.44
+        }
+    },
+    "Kirk Cousins": {
+        "Position": "QB",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.14,
+            "Top 6": 0.14,
+            "Top 12": 0.14,
+            "Bust": 0.71,
+            "Other": 0.14,
+            "Consistency": 0.29
+        }
+    },
+    "Tua Tagovailoa": {
+        "Position": "QB",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.09,
+            "Top 6": 0.18,
+            "Top 12": 0.36,
+            "Bust": 0.45,
+            "Other": 0.18,
+            "Consistency": 0.55
+        }
+    },
+    "Drake Maye": {
+        "Position": "QB",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.31,
+            "Bust": 0.46,
+            "Other": 0.23,
+            "Consistency": 0.54
+        }
+    },
+    "Anthony Richardson": {
+        "Position": "QB",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.0,
+            "Top 6": 0.18,
+            "Top 12": 0.36,
+            "Bust": 0.55,
+            "Other": 0.09,
+            "Consistency": 0.45
+        }
+    },
+    "Bryce Young": {
+        "Position": "QB",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.08,
+            "Top 12": 0.15,
+            "Bust": 0.62,
+            "Other": 0.23,
+            "Consistency": 0.38
+        }
+    },
+    "Russell Wilson": {
+        "Position": "QB",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.2,
+            "Top 12": 0.3,
+            "Bust": 0.4,
+            "Other": 0.3,
+            "Consistency": 0.6
+        }
+    },
+    "Derek Carr": {
+        "Position": "QB",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.3,
+            "Bust": 0.6,
+            "Other": 0.1,
+            "Consistency": 0.4
+        }
+    },
+    "Trevor Lawrence": {
+        "Position": "QB",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.1,
+            "Top 12": 0.3,
+            "Bust": 0.5,
+            "Other": 0.2,
+            "Consistency": 0.5
+        }
+    },
+    "Jameis Winston": {
+        "Position": "QB",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.08,
+            "Top 6": 0.17,
+            "Top 12": 0.25,
+            "Bust": 0.67,
+            "Other": 0.08,
+            "Consistency": 0.33
+        }
+    },
+    "Daniel Jones": {
+        "Position": "QB",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.1,
+            "Top 12": 0.3,
+            "Bust": 0.6,
+            "Other": 0.1,
+            "Consistency": 0.4
+        }
+    },
+    "Dak Prescott": {
+        "Position": "QB",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.13,
+            "Top 6": 0.13,
+            "Top 12": 0.13,
+            "Bust": 0.5,
+            "Other": 0.38,
+            "Consistency": 0.5
+        }
+    },
+    "Will Levis": {
+        "Position": "QB",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.09,
+            "Bust": 0.55,
+            "Other": 0.36,
+            "Consistency": 0.45
+        }
+    },
+    "Justin Fields": {
+        "Position": "QB",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.1,
+            "Top 6": 0.2,
+            "Top 12": 0.3,
+            "Bust": 0.6,
+            "Other": 0.1,
+            "Consistency": 0.4
+        }
+    },
+    "Cooper Rush": {
+        "Position": "QB",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.08,
+            "Bust": 0.67,
+            "Other": 0.25,
+            "Consistency": 0.33
+        }
+    },
+    "Gardner Minshew II": {
+        "Position": "QB",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.1,
+            "Bust": 0.7,
+            "Other": 0.2,
+            "Consistency": 0.3
+        }
+    },
+    "Mason Rudolph": {
+        "Position": "QB",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.14,
+            "Bust": 0.43,
+            "Other": 0.43,
+            "Consistency": 0.57
+        }
+    },
+    "Joe Flacco": {
+        "Position": "QB",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.14,
+            "Top 12": 0.14,
+            "Bust": 0.57,
+            "Other": 0.29,
+            "Consistency": 0.43
+        }
+    },
+    "Mac Jones": {
+        "Position": "QB",
+        "2024": {
+            "Games": 9,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.22,
+            "Bust": 0.67,
+            "Other": 0.11,
+            "Consistency": 0.33
+        }
+    },
+    "Aidan O'Connell": {
+        "Position": "QB",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.13,
+            "Bust": 0.75,
+            "Other": 0.13,
+            "Consistency": 0.25
+        }
+    },
+    "Deshaun Watson": {
+        "Position": "QB",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.71,
+            "Other": 0.29,
+            "Consistency": 0.29
+        }
+    },
+    "Drew Lock": {
+        "Position": "QB",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.17,
+            "Top 6": 0.17,
+            "Top 12": 0.17,
+            "Bust": 0.5,
+            "Other": 0.33,
+            "Consistency": 0.5
+        }
+    },
+    "Andy Dalton": {
+        "Position": "QB",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.0,
+            "Top 6": 0.17,
+            "Top 12": 0.17,
+            "Bust": 0.5,
+            "Other": 0.33,
+            "Consistency": 0.5
+        }
+    },
+    "Spencer Rattler": {
+        "Position": "QB",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.83,
+            "Other": 0.17,
+            "Consistency": 0.17
+        }
+    },
+    "Tyler Huntley": {
+        "Position": "QB",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.25,
+            "Top 12": 0.25,
+            "Bust": 0.75,
+            "Other": 0.0,
+            "Consistency": 0.25
+        }
+    },
+    "Malik Willis": {
+        "Position": "QB",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.0,
+            "Top 6": 0.17,
+            "Top 12": 0.17,
+            "Bust": 0.83,
+            "Other": 0.0,
+            "Consistency": 0.17
+        }
+    },
+    "Jacoby Brissett": {
+        "Position": "QB",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Kenny Pickett": {
+        "Position": "QB",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.8,
+            "Other": 0.2,
+            "Consistency": 0.2
+        }
+    },
+    "Desmond Ridder": {
+        "Position": "QB",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Michael Penix Jr.": {
+        "Position": "QB",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Dorian Thompson-Robinson": {
+        "Position": "QB",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Tyrod Taylor": {
+        "Position": "QB",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Marcus Mariota": {
+        "Position": "QB",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.5,
+            "Bust": 0.5,
+            "Other": 0.0,
+            "Consistency": 0.5
+        }
+    },
+    "Tim Boyle": {
+        "Position": "QB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Jake Haener": {
+        "Position": "QB",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Tommy DeVito": {
+        "Position": "QB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Tanner McKee": {
+        "Position": "QB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Brandon Allen": {
+        "Position": "QB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Joshua Dobbs": {
+        "Position": "QB",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Skylar Thompson": {
+        "Position": "QB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Mitchell Trubisky": {
+        "Position": "QB",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Davis Mills": {
+        "Position": "QB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Taylor Heinicke": {
+        "Position": "QB",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Hendon Hooker": {
+        "Position": "QB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Trey Lance": {
+        "Position": "QB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Nick Mullens": {
+        "Position": "QB",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Carson Wentz": {
+        "Position": "QB",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Josh Johnson": {
+        "Position": "QB",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Kyle Allen": {
+        "Position": "QB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Sam Howell": {
+        "Position": "QB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Jaren Hall": {
+        "Position": "QB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "C.J. Beathard": {
+        "Position": "QB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Trevor Siemian": {
+        "Position": "QB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Jeff Driskel": {
+        "Position": "QB",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Sam Hartman": {
+        "Position": "QB",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Jake Luton": {
+        "Position": "QB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Jordan Travis": {
+        "Position": "QB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Austin Reed": {
+        "Position": "QB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Emory Jones": {
+        "Position": "QB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Feleipe Franks": {
+        "Position": "QB",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Jarrett Stidham": {
+        "Position": "QB",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Kyle Trask": {
+        "Position": "QB",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Jake Browning": {
+        "Position": "QB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Tyson Bagent": {
+        "Position": "QB",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Clayton Tune": {
+        "Position": "QB",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Saquon Barkley": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.44,
+            "Top 6": 0.56,
+            "Top 12": 0.81,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Jahmyr Gibbs": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.31,
+            "Top 6": 0.56,
+            "Top 12": 0.94,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Bijan Robinson": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.44,
+            "Top 6": 0.56,
+            "Top 12": 0.88,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Derrick Henry": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.38,
+            "Top 6": 0.44,
+            "Top 12": 0.81,
+            "Bust": 0.94,
+            "Other": 0.0,
+            "Consistency": 0.06
+        }
+    },
+    "De'Von Achane": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.31,
+            "Top 6": 0.56,
+            "Top 12": 0.63,
+            "Bust": 0.81,
+            "Other": 0.19,
+            "Consistency": 0.19
+        }
+    },
+    "Josh Jacobs": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.25,
+            "Top 6": 0.5,
+            "Top 12": 0.88,
+            "Bust": 0.94,
+            "Other": 0.06,
+            "Consistency": 0.06
+        }
+    },
+    "Kyren Williams": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.19,
+            "Top 6": 0.44,
+            "Top 12": 0.75,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Alvin Kamara": {
+        "Position": "RB",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.21,
+            "Top 6": 0.36,
+            "Top 12": 0.93,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "James Cook": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.27,
+            "Top 6": 0.53,
+            "Top 12": 0.73,
+            "Bust": 0.87,
+            "Other": 0.13,
+            "Consistency": 0.13
+        }
+    },
+    "Chase Brown": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.31,
+            "Top 6": 0.44,
+            "Top 12": 0.75,
+            "Bust": 0.88,
+            "Other": 0.13,
+            "Consistency": 0.12
+        }
+    },
+    "James Conner": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.25,
+            "Top 6": 0.44,
+            "Top 12": 0.69,
+            "Bust": 0.81,
+            "Other": 0.13,
+            "Consistency": 0.19
+        }
+    },
+    "Chuba Hubbard": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.2,
+            "Top 6": 0.4,
+            "Top 12": 0.67,
+            "Bust": 0.87,
+            "Other": 0.13,
+            "Consistency": 0.13
+        }
+    },
+    "Joe Mixon": {
+        "Position": "RB",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.38,
+            "Top 6": 0.46,
+            "Top 12": 0.62,
+            "Bust": 0.92,
+            "Other": 0.08,
+            "Consistency": 0.08
+        }
+    },
+    "Aaron Jones Sr.": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.38,
+            "Top 12": 0.75,
+            "Bust": 0.88,
+            "Other": 0.06,
+            "Consistency": 0.12
+        }
+    },
+    "Bucky Irving": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.19,
+            "Top 6": 0.31,
+            "Top 12": 0.69,
+            "Bust": 0.75,
+            "Other": 0.19,
+            "Consistency": 0.25
+        }
+    },
+    "Breece Hall": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.2,
+            "Top 6": 0.4,
+            "Top 12": 0.6,
+            "Bust": 0.73,
+            "Other": 0.13,
+            "Consistency": 0.27
+        }
+    },
+    "David Montgomery": {
+        "Position": "RB",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.07,
+            "Top 6": 0.29,
+            "Top 12": 0.86,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Jonathan Taylor": {
+        "Position": "RB",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.23,
+            "Top 6": 0.38,
+            "Top 12": 0.62,
+            "Bust": 0.85,
+            "Other": 0.08,
+            "Consistency": 0.15
+        }
+    },
+    "D'Andre Swift": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.25,
+            "Top 12": 0.44,
+            "Bust": 0.81,
+            "Other": 0.13,
+            "Consistency": 0.19
+        }
+    },
+    "Rachaad White": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.13,
+            "Top 6": 0.2,
+            "Top 12": 0.53,
+            "Bust": 0.87,
+            "Other": 0.13,
+            "Consistency": 0.13
+        }
+    },
+    "Tony Pollard": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.33,
+            "Top 12": 0.53,
+            "Bust": 0.87,
+            "Other": 0.13,
+            "Consistency": 0.13
+        }
+    },
+    "Najee Harris": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.13,
+            "Top 12": 0.38,
+            "Bust": 0.88,
+            "Other": 0.13,
+            "Consistency": 0.12
+        }
+    },
+    "Rico Dowdle": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.2,
+            "Top 12": 0.4,
+            "Bust": 0.87,
+            "Other": 0.13,
+            "Consistency": 0.13
+        }
+    },
+    "J.K. Dobbins": {
+        "Position": "RB",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.17,
+            "Top 6": 0.42,
+            "Top 12": 0.58,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Kenneth Walker III": {
+        "Position": "RB",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.18,
+            "Top 6": 0.36,
+            "Top 12": 0.82,
+            "Bust": 0.91,
+            "Other": 0.0,
+            "Consistency": 0.09
+        }
+    },
+    "Zach Charbonnet": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.13,
+            "Top 6": 0.19,
+            "Top 12": 0.44,
+            "Bust": 0.56,
+            "Other": 0.44,
+            "Consistency": 0.44
+        }
+    },
+    "Rhamondre Stevenson": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.13,
+            "Top 6": 0.27,
+            "Top 12": 0.53,
+            "Bust": 0.73,
+            "Other": 0.27,
+            "Consistency": 0.27
+        }
+    },
+    "Tyrone Tracy Jr.": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.13,
+            "Top 6": 0.19,
+            "Top 12": 0.44,
+            "Bust": 0.63,
+            "Other": 0.31,
+            "Consistency": 0.37
+        }
+    },
+    "Brian Robinson Jr.": {
+        "Position": "RB",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.23,
+            "Top 12": 0.62,
+            "Bust": 0.85,
+            "Other": 0.15,
+            "Consistency": 0.15
+        }
+    },
+    "Kareem Hunt": {
+        "Position": "RB",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.08,
+            "Top 6": 0.23,
+            "Top 12": 0.54,
+            "Bust": 0.69,
+            "Other": 0.31,
+            "Consistency": 0.31
+        }
+    },
+    "Javonte Williams": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.13,
+            "Top 12": 0.31,
+            "Bust": 0.56,
+            "Other": 0.38,
+            "Consistency": 0.44
+        }
+    },
+    "Jerome Ford": {
+        "Position": "RB",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.07,
+            "Top 6": 0.21,
+            "Top 12": 0.29,
+            "Bust": 0.71,
+            "Other": 0.29,
+            "Consistency": 0.29
+        }
+    },
+    "Alexander Mattison": {
+        "Position": "RB",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.38,
+            "Bust": 0.62,
+            "Other": 0.31,
+            "Consistency": 0.38
+        }
+    },
+    "Justice Hill": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.13,
+            "Top 12": 0.33,
+            "Bust": 0.53,
+            "Other": 0.4,
+            "Consistency": 0.47
+        }
+    },
+    "Austin Ekeler": {
+        "Position": "RB",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.0,
+            "Top 6": 0.09,
+            "Top 12": 0.55,
+            "Bust": 0.82,
+            "Other": 0.18,
+            "Consistency": 0.18
+        }
+    },
+    "Ameer Abdullah": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.13,
+            "Top 12": 0.31,
+            "Bust": 0.44,
+            "Other": 0.56,
+            "Consistency": 0.56
+        }
+    },
+    "Jaylen Warren": {
+        "Position": "RB",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.21,
+            "Bust": 0.71,
+            "Other": 0.29,
+            "Consistency": 0.29
+        }
+    },
+    "Travis Etienne Jr.": {
+        "Position": "RB",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.36,
+            "Bust": 0.57,
+            "Other": 0.29,
+            "Consistency": 0.43
+        }
+    },
+    "Tank Bigsby": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.13,
+            "Top 6": 0.13,
+            "Top 12": 0.2,
+            "Bust": 0.47,
+            "Other": 0.53,
+            "Consistency": 0.53
+        }
+    },
+    "Jordan Mason": {
+        "Position": "RB",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.17,
+            "Top 6": 0.17,
+            "Top 12": 0.25,
+            "Bust": 0.67,
+            "Other": 0.33,
+            "Consistency": 0.33
+        }
+    },
+    "Tyjae Spears": {
+        "Position": "RB",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.08,
+            "Top 6": 0.17,
+            "Top 12": 0.33,
+            "Bust": 0.58,
+            "Other": 0.42,
+            "Consistency": 0.42
+        }
+    },
+    "Ray Davis": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.06,
+            "Top 12": 0.25,
+            "Bust": 0.38,
+            "Other": 0.63,
+            "Consistency": 0.62
+        }
+    },
+    "Tyler Allgeier": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.06,
+            "Top 12": 0.13,
+            "Bust": 0.31,
+            "Other": 0.69,
+            "Consistency": 0.69
+        }
+    },
+    "Devin Singletary": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.07,
+            "Top 12": 0.2,
+            "Bust": 0.33,
+            "Other": 0.67,
+            "Consistency": 0.67
+        }
+    },
+    "Isaac Guerendo": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.07,
+            "Top 6": 0.13,
+            "Top 12": 0.27,
+            "Bust": 0.4,
+            "Other": 0.6,
+            "Consistency": 0.6
+        }
+    },
+    "Antonio Gibson": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.06,
+            "Bust": 0.31,
+            "Other": 0.5,
+            "Consistency": 0.69
+        }
+    },
+    "Jaleel McLaughlin": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.13,
+            "Bust": 0.33,
+            "Other": 0.6,
+            "Consistency": 0.67
+        }
+    },
+    "Ty Johnson": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.19,
+            "Bust": 0.25,
+            "Other": 0.63,
+            "Consistency": 0.75
+        }
+    },
+    "Cam Akers": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.13,
+            "Bust": 0.4,
+            "Other": 0.6,
+            "Consistency": 0.6
+        }
+    },
+    "Zack Moss": {
+        "Position": "RB",
+        "2024": {
+            "Games": 9,
+            "Boom": 0.0,
+            "Top 6": 0.22,
+            "Top 12": 0.33,
+            "Bust": 0.56,
+            "Other": 0.33,
+            "Consistency": 0.44
+        }
+    },
+    "Emanuel Wilson": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.13,
+            "Bust": 0.31,
+            "Other": 0.63,
+            "Consistency": 0.69
+        }
+    },
+    "Braelon Allen": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.06,
+            "Top 12": 0.13,
+            "Bust": 0.25,
+            "Other": 0.75,
+            "Consistency": 0.75
+        }
+    },
+    "Samaje Perine": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.06,
+            "Bust": 0.19,
+            "Other": 0.75,
+            "Consistency": 0.81
+        }
+    },
+    "Raheem Mostert": {
+        "Position": "RB",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.17,
+            "Bust": 0.25,
+            "Other": 0.67,
+            "Consistency": 0.75
+        }
+    },
+    "Roschon Johnson": {
+        "Position": "RB",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.08,
+            "Bust": 0.42,
+            "Other": 0.5,
+            "Consistency": 0.58
+        }
+    },
+    "Sean Tucker": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.06,
+            "Top 12": 0.06,
+            "Bust": 0.13,
+            "Other": 0.88,
+            "Consistency": 0.87
+        }
+    },
+    "Gus Edwards": {
+        "Position": "RB",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.0,
+            "Top 6": 0.09,
+            "Top 12": 0.09,
+            "Bust": 0.18,
+            "Other": 0.73,
+            "Consistency": 0.82
+        }
+    },
+    "Jeremy McNichols": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.06,
+            "Top 12": 0.06,
+            "Bust": 0.19,
+            "Other": 0.75,
+            "Consistency": 0.81
+        }
+    },
+    "Nick Chubb": {
+        "Position": "RB",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.13,
+            "Top 12": 0.25,
+            "Bust": 0.38,
+            "Other": 0.63,
+            "Consistency": 0.62
+        }
+    },
+    "Ezekiel Elliott": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.07,
+            "Bust": 0.13,
+            "Other": 0.8,
+            "Consistency": 0.87
+        }
+    },
+    "Isiah Pacheco": {
+        "Position": "RB",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.29,
+            "Bust": 0.43,
+            "Other": 0.57,
+            "Consistency": 0.57
+        }
+    },
+    "Kenneth Gainwell": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.19,
+            "Other": 0.81,
+            "Consistency": 0.81
+        }
+    },
+    "Emari Demercado": {
+        "Position": "RB",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.15,
+            "Bust": 0.15,
+            "Other": 0.85,
+            "Consistency": 0.85
+        }
+    },
+    "Trey Sermon": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.06,
+            "Top 12": 0.06,
+            "Bust": 0.13,
+            "Other": 0.88,
+            "Consistency": 0.87
+        }
+    },
+    "Dare Ogunbowale": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.13,
+            "Bust": 0.13,
+            "Other": 0.88,
+            "Consistency": 0.87
+        }
+    },
+    "Miles Sanders": {
+        "Position": "RB",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.1,
+            "Bust": 0.3,
+            "Other": 0.7,
+            "Consistency": 0.7
+        }
+    },
+    "Christian McCaffrey": {
+        "Position": "RB",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.5,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Trey Benson": {
+        "Position": "RB",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.08,
+            "Bust": 0.15,
+            "Other": 0.85,
+            "Consistency": 0.85
+        }
+    },
+    "Kyle Juszczyk": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.13,
+            "Other": 0.88,
+            "Consistency": 0.87
+        }
+    },
+    "Tyler Goodson": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.27,
+            "Other": 0.73,
+            "Consistency": 0.73
+        }
+    },
+    "Isaiah Davis": {
+        "Position": "RB",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.15,
+            "Bust": 0.15,
+            "Other": 0.85,
+            "Consistency": 0.85
+        }
+    },
+    "Audric Estime": {
+        "Position": "RB",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.08,
+            "Other": 0.92,
+            "Consistency": 0.92
+        }
+    },
+    "Cordarrelle Patterson": {
+        "Position": "RB",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.33,
+            "Other": 0.67,
+            "Consistency": 0.67
+        }
+    },
+    "Chris Brooks": {
+        "Position": "RB",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.08,
+            "Other": 0.83,
+            "Consistency": 0.92
+        }
+    },
+    "Pierre Strong Jr.": {
+        "Position": "RB",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.15,
+            "Other": 0.85,
+            "Consistency": 0.85
+        }
+    },
+    "Jamaal Williams": {
+        "Position": "RB",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.08,
+            "Bust": 0.08,
+            "Other": 0.92,
+            "Consistency": 0.92
+        }
+    },
+    "Kimani Vidal": {
+        "Position": "RB",
+        "2024": {
+            "Games": 9,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.11,
+            "Bust": 0.11,
+            "Other": 0.89,
+            "Consistency": 0.89
+        }
+    },
+    "D'Ernest Johnson": {
+        "Position": "RB",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.08,
+            "Other": 0.83,
+            "Consistency": 0.92
+        }
+    },
+    "Chris Rodriguez Jr.": {
+        "Position": "RB",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.14,
+            "Bust": 0.29,
+            "Other": 0.71,
+            "Consistency": 0.71
+        }
+    },
+    "Blake Corum": {
+        "Position": "RB",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Zamir White": {
+        "Position": "RB",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.75,
+            "Consistency": 1.0
+        }
+    },
+    "Kendre Miller": {
+        "Position": "RB",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.14,
+            "Other": 0.86,
+            "Consistency": 0.86
+        }
+    },
+    "Michael Burton": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.06,
+            "Other": 0.88,
+            "Consistency": 0.94
+        }
+    },
+    "JaMycal Hasty": {
+        "Position": "RB",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.07,
+            "Bust": 0.07,
+            "Other": 0.93,
+            "Consistency": 0.93
+        }
+    },
+    "Ty Chandler": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.13,
+            "Other": 0.87,
+            "Consistency": 0.87
+        }
+    },
+    "D'Onta Foreman": {
+        "Position": "RB",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.7,
+            "Consistency": 1.0
+        }
+    },
+    "Sincere McCormick": {
+        "Position": "RB",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.5,
+            "Other": 0.5,
+            "Consistency": 0.5
+        }
+    },
+    "Jaylen Wright": {
+        "Position": "RB",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.07,
+            "Other": 0.93,
+            "Consistency": 0.93
+        }
+    },
+    "Hunter Luepke": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.93,
+            "Consistency": 1.0
+        }
+    },
+    "Hassan Haskins": {
+        "Position": "RB",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.07,
+            "Bust": 0.07,
+            "Other": 0.86,
+            "Consistency": 0.93
+        }
+    },
+    "Alec Ingold": {
+        "Position": "RB",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.93,
+            "Consistency": 1.0
+        }
+    },
+    "Jordan Mims": {
+        "Position": "RB",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.13,
+            "Other": 0.88,
+            "Consistency": 0.87
+        }
+    },
+    "Dameon Pierce": {
+        "Position": "RB",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.1,
+            "Bust": 0.1,
+            "Other": 0.9,
+            "Consistency": 0.9
+        }
+    },
+    "Michael Carter": {
+        "Position": "RB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.67,
+            "Other": 0.33,
+            "Consistency": 0.33
+        }
+    },
+    "Carson Steele": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.07,
+            "Other": 0.93,
+            "Consistency": 0.93
+        }
+    },
+    "Kenny McIntosh": {
+        "Position": "RB",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.91,
+            "Consistency": 1.0
+        }
+    },
+    "DeeJay Dallas": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.93,
+            "Consistency": 1.0
+        }
+    },
+    "Craig Reynolds": {
+        "Position": "RB",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.08,
+            "Other": 0.92,
+            "Consistency": 0.92
+        }
+    },
+    "Patrick Taylor Jr.": {
+        "Position": "RB",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.13,
+            "Other": 0.88,
+            "Consistency": 0.87
+        }
+    },
+    "Khalil Herbert": {
+        "Position": "RB",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.08,
+            "Other": 0.92,
+            "Consistency": 0.92
+        }
+    },
+    "Eric Gray": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.93,
+            "Consistency": 1.0
+        }
+    },
+    "Patrick Ricard": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.06,
+            "Other": 0.94,
+            "Consistency": 0.94
+        }
+    },
+    "C.J. Ham": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.94,
+            "Consistency": 1.0
+        }
+    },
+    "Julius Chestnut": {
+        "Position": "RB",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jeff Wilson Jr.": {
+        "Position": "RB",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Tyler Badie": {
+        "Position": "RB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.67,
+            "Consistency": 1.0
+        }
+    },
+    "Deuce Vaughn": {
+        "Position": "RB",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Sione Vaki": {
+        "Position": "RB",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jonathon Brooks": {
+        "Position": "RB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.67,
+            "Consistency": 1.0
+        }
+    },
+    "Travis Homer": {
+        "Position": "RB",
+        "2024": {
+            "Games": 9,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "J.J. Taylor": {
+        "Position": "RB",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Ronnie Rivers": {
+        "Position": "RB",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Kene Nwangwu": {
+        "Position": "RB",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Keaton Mitchell": {
+        "Position": "RB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Will Shipley": {
+        "Position": "RB",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Clyde Edwards-Helaire": {
+        "Position": "RB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jermar Jefferson": {
+        "Position": "RB",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Dalvin Cook": {
+        "Position": "RB",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Raheem Blackshear": {
+        "Position": "RB",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Mike Boone": {
+        "Position": "RB",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Blake Watson": {
+        "Position": "RB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jase McClellan": {
+        "Position": "RB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Rasheen Ali": {
+        "Position": "RB",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "MarShawn Lloyd": {
+        "Position": "RB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jonathan Ward": {
+        "Position": "RB",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Myles Gaskin": {
+        "Position": "RB",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "George Holani": {
+        "Position": "RB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Aaron Shampklin": {
+        "Position": "RB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Terrell Jennings": {
+        "Position": "RB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Tyreik McAllister": {
+        "Position": "RB",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Tyrion Davis-Price": {
+        "Position": "RB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Chris Collier": {
+        "Position": "RB",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Ke'Shawn Vaughn": {
+        "Position": "RB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Reggie Gilliam": {
+        "Position": "RB",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Darrynton Evans": {
+        "Position": "RB",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "British Brooks": {
+        "Position": "RB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Evan Hull": {
+        "Position": "RB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "La'Mical Perine": {
+        "Position": "RB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Adam Prentice": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Kendall Milton": {
+        "Position": "RB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Trayveon Williams": {
+        "Position": "RB",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Keilan Robinson": {
+        "Position": "RB",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Nyheim Hines": {
+        "Position": "RB",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Joshua Kelley": {
+        "Position": "RB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Avery Williams": {
+        "Position": "RB",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jabari Small": {
+        "Position": "RB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "John Kelly Jr.": {
+        "Position": "RB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Troy Hairston II": {
+        "Position": "RB",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Gary Brightwell": {
+        "Position": "RB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Dante Miller": {
+        "Position": "RB",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Keaontay Ingram": {
+        "Position": "RB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "D.J. Williams": {
+        "Position": "RB",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jakob Johnson": {
+        "Position": "RB",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Khari Blasingame": {
+        "Position": "RB",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Dylan Laube": {
+        "Position": "RB",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Ja'Marr Chase": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.31,
+            "Top 6": 0.5,
+            "Top 12": 0.75,
+            "Bust": 0.94,
+            "Other": 0.94,
+            "Consistency": 0.06
+        }
+    },
+    "Justin Jefferson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.13,
+            "Top 6": 0.5,
+            "Top 12": 0.81,
+            "Bust": 0.88,
+            "Other": 0.94,
+            "Consistency": 0.12
+        }
+    },
+    "Amon-Ra St. Brown": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.19,
+            "Top 6": 0.38,
+            "Top 12": 0.63,
+            "Bust": 0.81,
+            "Other": 0.94,
+            "Consistency": 0.19
+        }
+    },
+    "Brian Thomas Jr.": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.13,
+            "Top 6": 0.38,
+            "Top 12": 0.56,
+            "Bust": 0.75,
+            "Other": 0.81,
+            "Consistency": 0.25
+        }
+    },
+    "CeeDee Lamb": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.13,
+            "Top 6": 0.27,
+            "Top 12": 0.67,
+            "Bust": 0.8,
+            "Other": 0.87,
+            "Consistency": 0.2
+        }
+    },
+    "Malik Nabers": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.21,
+            "Top 6": 0.36,
+            "Top 12": 0.57,
+            "Bust": 0.86,
+            "Other": 0.93,
+            "Consistency": 0.14
+        }
+    },
+    "Jaxon Smith-Njigba": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.25,
+            "Top 12": 0.44,
+            "Bust": 0.69,
+            "Other": 0.75,
+            "Consistency": 0.31
+        }
+    },
+    "Terry McLaurin": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.13,
+            "Top 6": 0.25,
+            "Top 12": 0.69,
+            "Bust": 0.75,
+            "Other": 0.75,
+            "Consistency": 0.25
+        }
+    },
+    "Garrett Wilson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.19,
+            "Top 6": 0.19,
+            "Top 12": 0.38,
+            "Bust": 0.69,
+            "Other": 0.88,
+            "Consistency": 0.31
+        }
+    },
+    "Drake London": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.06,
+            "Top 12": 0.5,
+            "Bust": 0.69,
+            "Other": 0.88,
+            "Consistency": 0.31
+        }
+    },
+    "Jerry Jeudy": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.13,
+            "Top 6": 0.25,
+            "Top 12": 0.31,
+            "Bust": 0.69,
+            "Other": 0.75,
+            "Consistency": 0.31
+        }
+    },
+    "Ladd McConkey": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.13,
+            "Top 6": 0.2,
+            "Top 12": 0.47,
+            "Bust": 0.67,
+            "Other": 0.73,
+            "Consistency": 0.33
+        }
+    },
+    "Mike Evans": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.23,
+            "Top 6": 0.46,
+            "Top 12": 0.46,
+            "Bust": 0.62,
+            "Other": 0.77,
+            "Consistency": 0.38
+        }
+    },
+    "Davante Adams": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.23,
+            "Top 6": 0.31,
+            "Top 12": 0.46,
+            "Bust": 0.54,
+            "Other": 0.85,
+            "Consistency": 0.46
+        }
+    },
+    "Courtland Sutton": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.13,
+            "Top 12": 0.56,
+            "Bust": 0.69,
+            "Other": 0.75,
+            "Consistency": 0.31
+        }
+    },
+    "A.J. Brown": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.08,
+            "Top 6": 0.38,
+            "Top 12": 0.54,
+            "Bust": 0.85,
+            "Other": 0.85,
+            "Consistency": 0.15
+        }
+    },
+    "DJ Moore": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.13,
+            "Top 6": 0.19,
+            "Top 12": 0.31,
+            "Bust": 0.56,
+            "Other": 0.75,
+            "Consistency": 0.44
+        }
+    },
+    "Tyreek Hill": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.13,
+            "Top 6": 0.19,
+            "Top 12": 0.31,
+            "Bust": 0.63,
+            "Other": 0.69,
+            "Consistency": 0.37
+        }
+    },
+    "Tee Higgins": {
+        "Position": "WR",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.27,
+            "Top 6": 0.27,
+            "Top 12": 0.64,
+            "Bust": 0.82,
+            "Other": 0.82,
+            "Consistency": 0.18
+        }
+    },
+    "Jordan Addison": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.14,
+            "Top 6": 0.21,
+            "Top 12": 0.43,
+            "Bust": 0.57,
+            "Other": 0.71,
+            "Consistency": 0.43
+        }
+    },
+    "Puka Nacua": {
+        "Position": "WR",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.18,
+            "Top 6": 0.36,
+            "Top 12": 0.73,
+            "Bust": 0.82,
+            "Other": 0.82,
+            "Consistency": 0.18
+        }
+    },
+    "Zay Flowers": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.19,
+            "Top 12": 0.38,
+            "Bust": 0.5,
+            "Other": 0.69,
+            "Consistency": 0.5
+        }
+    },
+    "Jameson Williams": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.21,
+            "Top 6": 0.29,
+            "Top 12": 0.43,
+            "Bust": 0.71,
+            "Other": 0.79,
+            "Consistency": 0.29
+        }
+    },
+    "DeVonta Smith": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.15,
+            "Top 6": 0.31,
+            "Top 12": 0.62,
+            "Bust": 0.69,
+            "Other": 0.77,
+            "Consistency": 0.31
+        }
+    },
+    "Jauan Jennings": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.21,
+            "Top 6": 0.21,
+            "Top 12": 0.29,
+            "Bust": 0.5,
+            "Other": 0.71,
+            "Consistency": 0.5
+        }
+    },
+    "Nico Collins": {
+        "Position": "WR",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.18,
+            "Top 6": 0.27,
+            "Top 12": 0.64,
+            "Bust": 0.82,
+            "Other": 1.0,
+            "Consistency": 0.18
+        }
+    },
+    "Darnell Mooney": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.13,
+            "Top 12": 0.31,
+            "Bust": 0.5,
+            "Other": 0.63,
+            "Consistency": 0.5
+        }
+    },
+    "Jayden Reed": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.13,
+            "Top 6": 0.13,
+            "Top 12": 0.31,
+            "Bust": 0.38,
+            "Other": 0.63,
+            "Consistency": 0.62
+        }
+    },
+    "Jakobi Meyers": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.14,
+            "Top 12": 0.43,
+            "Bust": 0.57,
+            "Other": 0.86,
+            "Consistency": 0.43
+        }
+    },
+    "Calvin Ridley": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.13,
+            "Top 6": 0.19,
+            "Top 12": 0.25,
+            "Bust": 0.5,
+            "Other": 0.63,
+            "Consistency": 0.5
+        }
+    },
+    "Xavier Worthy": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.19,
+            "Top 12": 0.38,
+            "Bust": 0.5,
+            "Other": 0.69,
+            "Consistency": 0.5
+        }
+    },
+    "Khalil Shakir": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.07,
+            "Top 12": 0.33,
+            "Bust": 0.53,
+            "Other": 0.73,
+            "Consistency": 0.47
+        }
+    },
+    "Keenan Allen": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.14,
+            "Top 6": 0.36,
+            "Top 12": 0.36,
+            "Bust": 0.36,
+            "Other": 0.43,
+            "Consistency": 0.64
+        }
+    },
+    "Marvin Harrison Jr.": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.13,
+            "Top 12": 0.44,
+            "Bust": 0.44,
+            "Other": 0.5,
+            "Consistency": 0.56
+        }
+    },
+    "DK Metcalf": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.07,
+            "Top 6": 0.14,
+            "Top 12": 0.29,
+            "Bust": 0.43,
+            "Other": 0.64,
+            "Consistency": 0.57
+        }
+    },
+    "Cooper Kupp": {
+        "Position": "WR",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.17,
+            "Top 6": 0.33,
+            "Top 12": 0.58,
+            "Bust": 0.58,
+            "Other": 0.58,
+            "Consistency": 0.42
+        }
+    },
+    "Wan'Dale Robinson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.19,
+            "Bust": 0.38,
+            "Other": 0.63,
+            "Consistency": 0.62
+        }
+    },
+    "Josh Downs": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.15,
+            "Top 12": 0.46,
+            "Bust": 0.62,
+            "Other": 0.62,
+            "Consistency": 0.38
+        }
+    },
+    "George Pickens": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.15,
+            "Top 12": 0.38,
+            "Bust": 0.54,
+            "Other": 0.69,
+            "Consistency": 0.46
+        }
+    },
+    "Rashod Bateman": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.13,
+            "Top 12": 0.25,
+            "Bust": 0.38,
+            "Other": 0.44,
+            "Consistency": 0.62
+        }
+    },
+    "Deebo Samuel Sr.": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.07,
+            "Top 6": 0.13,
+            "Top 12": 0.27,
+            "Bust": 0.4,
+            "Other": 0.53,
+            "Consistency": 0.6
+        }
+    },
+    "Michael Pittman Jr.": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.07,
+            "Top 6": 0.07,
+            "Top 12": 0.2,
+            "Bust": 0.33,
+            "Other": 0.6,
+            "Consistency": 0.67
+        }
+    },
+    "Alec Pierce": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.2,
+            "Top 12": 0.33,
+            "Bust": 0.33,
+            "Other": 0.47,
+            "Consistency": 0.67
+        }
+    },
+    "DeAndre Hopkins": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.06,
+            "Top 12": 0.13,
+            "Bust": 0.31,
+            "Other": 0.5,
+            "Consistency": 0.69
+        }
+    },
+    "Quentin Johnston": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.14,
+            "Top 12": 0.29,
+            "Bust": 0.43,
+            "Other": 0.57,
+            "Consistency": 0.57
+        }
+    },
+    "DeMario Douglas": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.06,
+            "Top 12": 0.13,
+            "Bust": 0.31,
+            "Other": 0.56,
+            "Consistency": 0.69
+        }
+    },
+    "Rome Odunze": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.13,
+            "Top 12": 0.19,
+            "Bust": 0.25,
+            "Other": 0.44,
+            "Consistency": 0.75
+        }
+    },
+    "Jaylen Waddle": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.07,
+            "Top 6": 0.13,
+            "Top 12": 0.2,
+            "Bust": 0.27,
+            "Other": 0.53,
+            "Consistency": 0.73
+        }
+    },
+    "Tank Dell": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.07,
+            "Top 12": 0.21,
+            "Bust": 0.29,
+            "Other": 0.57,
+            "Consistency": 0.71
+        }
+    },
+    "Jalen Tolbert": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.06,
+            "Top 12": 0.06,
+            "Bust": 0.25,
+            "Other": 0.44,
+            "Consistency": 0.75
+        }
+    },
+    "Chris Godwin": {
+        "Position": "WR",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.25,
+            "Top 6": 0.38,
+            "Top 12": 0.5,
+            "Bust": 0.88,
+            "Other": 0.88,
+            "Consistency": 0.12
+        }
+    },
+    "Romeo Doubs": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.31,
+            "Bust": 0.31,
+            "Other": 0.54,
+            "Consistency": 0.69
+        }
+    },
+    "Adam Thielen": {
+        "Position": "WR",
+        "2024": {
+            "Games": 9,
+            "Boom": 0.11,
+            "Top 6": 0.22,
+            "Top 12": 0.44,
+            "Bust": 0.56,
+            "Other": 0.78,
+            "Consistency": 0.44
+        }
+    },
+    "Ray-Ray McCloud III": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.06,
+            "Bust": 0.25,
+            "Other": 0.44,
+            "Consistency": 0.75
+        }
+    },
+    "Nick Westbrook-Ikhine": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.06,
+            "Top 12": 0.19,
+            "Bust": 0.31,
+            "Other": 0.44,
+            "Consistency": 0.69
+        }
+    },
+    "Michael Wilson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.25,
+            "Other": 0.38,
+            "Consistency": 0.75
+        }
+    },
+    "Tre Tucker": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.06,
+            "Top 12": 0.19,
+            "Bust": 0.25,
+            "Other": 0.31,
+            "Consistency": 0.75
+        }
+    },
+    "Amari Cooper": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.07,
+            "Top 6": 0.07,
+            "Top 12": 0.21,
+            "Bust": 0.29,
+            "Other": 0.36,
+            "Consistency": 0.71
+        }
+    },
+    "Stefon Diggs": {
+        "Position": "WR",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.13,
+            "Top 12": 0.5,
+            "Bust": 0.75,
+            "Other": 0.75,
+            "Consistency": 0.25
+        }
+    },
+    "Calvin Austin III": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.06,
+            "Top 12": 0.19,
+            "Bust": 0.25,
+            "Other": 0.38,
+            "Consistency": 0.75
+        }
+    },
+    "Xavier Legette": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.07,
+            "Bust": 0.27,
+            "Other": 0.4,
+            "Consistency": 0.73
+        }
+    },
+    "Andrei Iosivas": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.06,
+            "Bust": 0.25,
+            "Other": 0.31,
+            "Consistency": 0.75
+        }
+    },
+    "Jalen McMillan": {
+        "Position": "WR",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.17,
+            "Top 12": 0.33,
+            "Bust": 0.33,
+            "Other": 0.5,
+            "Consistency": 0.67
+        }
+    },
+    "Tyler Lockett": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.13,
+            "Bust": 0.25,
+            "Other": 0.44,
+            "Consistency": 0.75
+        }
+    },
+    "Elijah Moore": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.19,
+            "Bust": 0.19,
+            "Other": 0.31,
+            "Consistency": 0.81
+        }
+    },
+    "Demarcus Robinson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.06,
+            "Top 12": 0.13,
+            "Bust": 0.25,
+            "Other": 0.31,
+            "Consistency": 0.75
+        }
+    },
+    "Darius Slayton": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.07,
+            "Top 6": 0.07,
+            "Top 12": 0.13,
+            "Bust": 0.2,
+            "Other": 0.4,
+            "Consistency": 0.8
+        }
+    },
+    "Allen Lazard": {
+        "Position": "WR",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.09,
+            "Top 6": 0.18,
+            "Top 12": 0.18,
+            "Bust": 0.36,
+            "Other": 0.55,
+            "Consistency": 0.64
+        }
+    },
+    "Marvin Mims Jr.": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.06,
+            "Top 12": 0.13,
+            "Bust": 0.19,
+            "Other": 0.25,
+            "Consistency": 0.81
+        }
+    },
+    "Joshua Palmer": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.13,
+            "Other": 0.33,
+            "Consistency": 0.87
+        }
+    },
+    "Keon Coleman": {
+        "Position": "WR",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.17,
+            "Bust": 0.33,
+            "Other": 0.5,
+            "Consistency": 0.67
+        }
+    },
+    "Christian Watson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.14,
+            "Bust": 0.21,
+            "Other": 0.57,
+            "Consistency": 0.79
+        }
+    },
+    "Olamide Zaccheaus": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.13,
+            "Top 12": 0.13,
+            "Bust": 0.19,
+            "Other": 0.19,
+            "Consistency": 0.81
+        }
+    },
+    "Dontayvion Wicks": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.06,
+            "Top 12": 0.06,
+            "Bust": 0.19,
+            "Other": 0.31,
+            "Consistency": 0.81
+        }
+    },
+    "Kayshon Boutte": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.07,
+            "Top 12": 0.14,
+            "Bust": 0.14,
+            "Other": 0.29,
+            "Consistency": 0.86
+        }
+    },
+    "KaVontae Turpin": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.06,
+            "Bust": 0.13,
+            "Other": 0.19,
+            "Consistency": 0.87
+        }
+    },
+    "Jalen Nailor": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.06,
+            "Bust": 0.25,
+            "Other": 0.31,
+            "Consistency": 0.75
+        }
+    },
+    "Mack Hollins": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.06,
+            "Bust": 0.19,
+            "Other": 0.25,
+            "Consistency": 0.81
+        }
+    },
+    "Devaughn Vele": {
+        "Position": "WR",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.33,
+            "Other": 0.5,
+            "Consistency": 0.67
+        }
+    },
+    "Tutu Atwell": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.19,
+            "Other": 0.25,
+            "Consistency": 0.81
+        }
+    },
+    "Tim Patrick": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.07,
+            "Top 12": 0.07,
+            "Bust": 0.13,
+            "Other": 0.27,
+            "Consistency": 0.87
+        }
+    },
+    "Parker Washington": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.06,
+            "Top 12": 0.06,
+            "Bust": 0.19,
+            "Other": 0.19,
+            "Consistency": 0.81
+        }
+    },
+    "Noah Brown": {
+        "Position": "WR",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.09,
+            "Bust": 0.18,
+            "Other": 0.45,
+            "Consistency": 0.82
+        }
+    },
+    "Diontae Johnson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.09,
+            "Top 6": 0.18,
+            "Top 12": 0.27,
+            "Bust": 0.27,
+            "Other": 0.27,
+            "Consistency": 0.73
+        }
+    },
+    "Cedric Tillman": {
+        "Position": "WR",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.09,
+            "Top 6": 0.09,
+            "Top 12": 0.27,
+            "Bust": 0.27,
+            "Other": 0.27,
+            "Consistency": 0.73
+        }
+    },
+    "Rashid Shaheed": {
+        "Position": "WR",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.0,
+            "Top 6": 0.17,
+            "Top 12": 0.67,
+            "Bust": 0.67,
+            "Other": 0.67,
+            "Consistency": 0.33
+        }
+    },
+    "Jalen Coker": {
+        "Position": "WR",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.1,
+            "Top 12": 0.2,
+            "Bust": 0.2,
+            "Other": 0.3,
+            "Consistency": 0.8
+        }
+    },
+    "Tyler Boyd": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.06,
+            "Other": 0.13,
+            "Consistency": 0.94
+        }
+    },
+    "Sterling Shepard": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.15,
+            "Consistency": 1.0
+        }
+    },
+    "Marquez Valdes-Scantling": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.08,
+            "Top 6": 0.08,
+            "Top 12": 0.15,
+            "Bust": 0.23,
+            "Other": 0.38,
+            "Consistency": 0.77
+        }
+    },
+    "David Moore": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.06,
+            "Top 12": 0.06,
+            "Bust": 0.13,
+            "Other": 0.19,
+            "Consistency": 0.87
+        }
+    },
+    "Chris Olave": {
+        "Position": "WR",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.13,
+            "Top 12": 0.38,
+            "Bust": 0.5,
+            "Other": 0.5,
+            "Consistency": 0.5
+        }
+    },
+    "Ricky Pearsall": {
+        "Position": "WR",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.1,
+            "Top 6": 0.1,
+            "Top 12": 0.2,
+            "Bust": 0.3,
+            "Other": 0.3,
+            "Consistency": 0.7
+        }
+    },
+    "Christian Kirk": {
+        "Position": "WR",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.25,
+            "Bust": 0.38,
+            "Other": 0.38,
+            "Consistency": 0.62
+        }
+    },
+    "Greg Dortch": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.13,
+            "Consistency": 1.0
+        }
+    },
+    "Brandin Cooks": {
+        "Position": "WR",
+        "2024": {
+            "Games": 9,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.11,
+            "Other": 0.33,
+            "Consistency": 0.89
+        }
+    },
+    "Rashee Rice": {
+        "Position": "WR",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.25,
+            "Top 6": 0.25,
+            "Top 12": 0.75,
+            "Bust": 0.75,
+            "Other": 0.75,
+            "Consistency": 0.25
+        }
+    },
+    "Troy Franklin": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.07,
+            "Other": 0.2,
+            "Consistency": 0.93
+        }
+    },
+    "Brandon Aiyuk": {
+        "Position": "WR",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.14,
+            "Top 12": 0.14,
+            "Bust": 0.14,
+            "Other": 0.29,
+            "Consistency": 0.86
+        }
+    },
+    "Dyami Brown": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.07,
+            "Other": 0.07,
+            "Consistency": 0.93
+        }
+    },
+    "Kendrick Bourne": {
+        "Position": "WR",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.09,
+            "Bust": 0.09,
+            "Other": 0.09,
+            "Consistency": 0.91
+        }
+    },
+    "Justin Watson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.06,
+            "Other": 0.06,
+            "Consistency": 0.94
+        }
+    },
+    "Lil'Jordan Humphrey": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.06,
+            "Bust": 0.06,
+            "Other": 0.19,
+            "Consistency": 0.94
+        }
+    },
+    "Van Jefferson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.13,
+            "Consistency": 1.0
+        }
+    },
+    "Kalif Raymond": {
+        "Position": "WR",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.09,
+            "Bust": 0.27,
+            "Other": 0.27,
+            "Consistency": 0.73
+        }
+    },
+    "Gabe Davis": {
+        "Position": "WR",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.1,
+            "Top 12": 0.1,
+            "Bust": 0.1,
+            "Other": 0.2,
+            "Consistency": 0.9
+        }
+    },
+    "Adonai Mitchell": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.06,
+            "Other": 0.13,
+            "Consistency": 0.94
+        }
+    },
+    "Mike Williams": {
+        "Position": "WR",
+        "2024": {
+            "Games": 17,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.12,
+            "Consistency": 1.0
+        }
+    },
+    "JuJu Smith-Schuster": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.08,
+            "Bust": 0.08,
+            "Other": 0.15,
+            "Consistency": 0.92
+        }
+    },
+    "Curtis Samuel": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.08,
+            "Bust": 0.08,
+            "Other": 0.08,
+            "Consistency": 0.92
+        }
+    },
+    "John Metchie III": {
+        "Position": "WR",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.08,
+            "Bust": 0.08,
+            "Other": 0.17,
+            "Consistency": 0.92
+        }
+    },
+    "Nelson Agholor": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.07,
+            "Other": 0.07,
+            "Consistency": 0.93
+        }
+    },
+    "Tyler Johnson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.07,
+            "Other": 0.14,
+            "Consistency": 0.93
+        }
+    },
+    "DJ Turner": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.08,
+            "Other": 0.08,
+            "Consistency": 0.92
+        }
+    },
+    "Malik Washington": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.15,
+            "Consistency": 1.0
+        }
+    },
+    "Cedrick Wilson Jr.": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.07,
+            "Bust": 0.07,
+            "Other": 0.07,
+            "Consistency": 0.93
+        }
+    },
+    "Jordan Whittington": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.07,
+            "Bust": 0.14,
+            "Other": 0.14,
+            "Consistency": 0.86
+        }
+    },
+    "Derius Davis": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.14,
+            "Consistency": 1.0
+        }
+    },
+    "Ryan Miller": {
+        "Position": "WR",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.1,
+            "Consistency": 1.0
+        }
+    },
+    "Josh Reynolds": {
+        "Position": "WR",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.13,
+            "Other": 0.25,
+            "Consistency": 0.87
+        }
+    },
+    "Tylan Wallace": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.06,
+            "Top 12": 0.06,
+            "Bust": 0.06,
+            "Other": 0.06,
+            "Consistency": 0.94
+        }
+    },
+    "Jalen Brooks": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.08,
+            "Consistency": 1.0
+        }
+    },
+    "Trey Palmer": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.07,
+            "Other": 0.07,
+            "Consistency": 0.93
+        }
+    },
+    "Luke McCaffrey": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Robert Woods": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Mecole Hardman Jr.": {
+        "Position": "WR",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.08,
+            "Other": 0.08,
+            "Consistency": 0.92
+        }
+    },
+    "Ja'Lynn Polk": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.07,
+            "Consistency": 1.0
+        }
+    },
+    "KhaDarel Hodge": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.07,
+            "Other": 0.07,
+            "Consistency": 0.93
+        }
+    },
+    "Jamison Crowder": {
+        "Position": "WR",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.2,
+            "Bust": 0.2,
+            "Other": 0.2,
+            "Consistency": 0.8
+        }
+    },
+    "Jonathan Mingo": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Bub Means": {
+        "Position": "WR",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.14,
+            "Bust": 0.14,
+            "Other": 0.14,
+            "Consistency": 0.86
+        }
+    },
+    "Jahan Dotson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Kevin Austin Jr.": {
+        "Position": "WR",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Mason Tipton": {
+        "Position": "WR",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.09,
+            "Consistency": 1.0
+        }
+    },
+    "Malik Heath": {
+        "Position": "WR",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.09,
+            "Consistency": 1.0
+        }
+    },
+    "Bo Melton": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Dante Pettis": {
+        "Position": "WR",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Trent Sherfield Sr.": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jake Bobo": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Xavier Hutchinson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Rakim Jarrett": {
+        "Position": "WR",
+        "2024": {
+            "Games": 9,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.11,
+            "Consistency": 1.0
+        }
+    },
+    "Devin Duvernay": {
+        "Position": "WR",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Ashton Dulin": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.07,
+            "Other": 0.07,
+            "Consistency": 0.93
+        }
+    },
+    "K.J. Osborn": {
+        "Position": "WR",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.13,
+            "Consistency": 1.0
+        }
+    },
+    "Marquise Brown": {
+        "Position": "WR",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 1.0,
+            "Consistency": 1.0
+        }
+    },
+    "Simi Fehoko": {
+        "Position": "WR",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Parris Campbell": {
+        "Position": "WR",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.2,
+            "Other": 0.2,
+            "Consistency": 0.8
+        }
+    },
+    "Ryan Flournoy": {
+        "Position": "WR",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jalen Reagor": {
+        "Position": "WR",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jermaine Burton": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Odell Beckham Jr.": {
+        "Position": "WR",
+        "2024": {
+            "Games": 9,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jalin Hyatt": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "DeAndre Carter": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Brandon Powell": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Tyrell Shavers": {
+        "Position": "WR",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.33,
+            "Other": 0.33,
+            "Consistency": 0.67
+        }
+    },
+    "Xavier Gipson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Michael Woods II": {
+        "Position": "WR",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Bryce Oliver": {
+        "Position": "WR",
+        "2024": {
+            "Games": 9,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Scotty Miller": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Ben Skowronek": {
+        "Position": "WR",
+        "2024": {
+            "Games": 9,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Laviska Shenault Jr.": {
+        "Position": "WR",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Britain Covey": {
+        "Position": "WR",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Kristian Wilkerson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.5,
+            "Consistency": 1.0
+        }
+    },
+    "Johnny Wilson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Devontez Walker": {
+        "Position": "WR",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.17,
+            "Consistency": 1.0
+        }
+    },
+    "Tyquan Thornton": {
+        "Position": "WR",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Zay Jones": {
+        "Position": "WR",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Treylon Burks": {
+        "Position": "WR",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Dee Eskridge": {
+        "Position": "WR",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Terrace Marshall Jr.": {
+        "Position": "WR",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Tim Jones": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Deven Thompkins": {
+        "Position": "WR",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Dan Chisena": {
+        "Position": "WR",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Cody White": {
+        "Position": "WR",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Alex Bachman": {
+        "Position": "WR",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Ihmir Smith-Marsette": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Allen Robinson II": {
+        "Position": "WR",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "River Cracraft": {
+        "Position": "WR",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "David Bell": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Xavier Smith": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Charlie Jones": {
+        "Position": "WR",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "DJ Chark Jr.": {
+        "Position": "WR",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Malachi Corley": {
+        "Position": "WR",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jamari Thrash": {
+        "Position": "WR",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jacob Cowing": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Trenton Irwin": {
+        "Position": "WR",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Ronnie Bell": {
+        "Position": "WR",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Austin Trammell": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Ainias Smith": {
+        "Position": "WR",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Mason Kinsey": {
+        "Position": "WR",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Chris Conley": {
+        "Position": "WR",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Anthony Gould": {
+        "Position": "WR",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Isaiah Hodgins": {
+        "Position": "WR",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Grant DuBose": {
+        "Position": "WR",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "James Proche II": {
+        "Position": "WR",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Chris Blair": {
+        "Position": "WR",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Anthony Miller": {
+        "Position": "WR",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Isaiah Williams": {
+        "Position": "WR",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Casey Washington": {
+        "Position": "WR",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Brandon Johnson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Kendric Pryor": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Ramel Keyton": {
+        "Position": "WR",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Collin Johnson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jaelon Darden": {
+        "Position": "WR",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "John Ross": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Tyler Scott": {
+        "Position": "WR",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Robbie Chosen": {
+        "Position": "WR",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Kameron Johnson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Velus Jones Jr.": {
+        "Position": "WR",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Brycen Tremayne": {
+        "Position": "WR",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jaylen Johnson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Roman Wilson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Trent Taylor": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "KJ Hamler": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Equanimeous St. Brown": {
+        "Position": "WR",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jalen Cropper": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Montrell Washington": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Marquez Callaway": {
+        "Position": "WR",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Seth Williams": {
+        "Position": "WR",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Kazmeir Allen": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Maurice Alexander": {
+        "Position": "WR",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jared Wayne": {
+        "Position": "WR",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Laquon Treadwell": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Joshua Cephus": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Brandon Smith": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Dareke Young": {
+        "Position": "WR",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Brenden Rice": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Cody Thompson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Irvin Charles": {
+        "Position": "WR",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Erik Ezukanma": {
+        "Position": "WR",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Skyy Moore": {
+        "Position": "WR",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Nikko Remigio": {
+        "Position": "WR",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Justin Shorter": {
+        "Position": "WR",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Tom Kennedy": {
+        "Position": "WR",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Xavier Weaver": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Zach Pascal": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Deonte Harty": {
+        "Position": "WR",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Quinton Bell": {
+        "Position": "WR",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Javon Baker": {
+        "Position": "WR",
+        "2024": {
+            "Games": 9,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Braxton Berrios": {
+        "Position": "WR",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Chris Moore": {
+        "Position": "WR",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Justyn Ross": {
+        "Position": "WR",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jalen Virgil": {
+        "Position": "WR",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Justin Hardee Sr.": {
+        "Position": "WR",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Bryce Ford-Wheaton": {
+        "Position": "WR",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jalen Guyton": {
+        "Position": "WR",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Trishton Jackson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Elijah Cooks": {
+        "Position": "WR",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Alex Erickson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jermaine Jackson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Steven Sims Jr.": {
+        "Position": "WR",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Kadarius Toney": {
+        "Position": "WR",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Jha'Quan Jackson": {
+        "Position": "WR",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Dee Williams": {
+        "Position": "WR",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.0,
+            "Other": 0.0,
+            "Consistency": 1.0
+        }
+    },
+    "Brock Bowers": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.25,
+            "Top 6": 0.5,
+            "Top 12": 0.69,
+            "Bust": 0.25,
+            "Other": 0.06,
+            "Consistency": 0.75
+        }
+    },
+    "George Kittle": {
+        "Position": "TE",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.43,
+            "Top 6": 0.64,
+            "Top 12": 0.79,
+            "Bust": 0.14,
+            "Other": 0.07,
+            "Consistency": 0.86
+        }
+    },
+    "Trey McBride": {
+        "Position": "TE",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.27,
+            "Top 6": 0.47,
+            "Top 12": 0.73,
+            "Bust": 0.2,
+            "Other": 0.07,
+            "Consistency": 0.8
+        }
+    },
+    "Jonnu Smith": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.31,
+            "Top 6": 0.31,
+            "Top 12": 0.63,
+            "Bust": 0.31,
+            "Other": 0.06,
+            "Consistency": 0.69
+        }
+    },
+    "Travis Kelce": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.25,
+            "Top 6": 0.38,
+            "Top 12": 0.5,
+            "Bust": 0.44,
+            "Other": 0.06,
+            "Consistency": 0.56
+        }
+    },
+    "Mark Andrews": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.31,
+            "Top 12": 0.5,
+            "Bust": 0.31,
+            "Other": 0.19,
+            "Consistency": 0.69
+        }
+    },
+    "Zach Ertz": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.19,
+            "Top 12": 0.44,
+            "Bust": 0.44,
+            "Other": 0.13,
+            "Consistency": 0.56
+        }
+    },
+    "Sam LaPorta": {
+        "Position": "TE",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.33,
+            "Top 12": 0.47,
+            "Bust": 0.33,
+            "Other": 0.2,
+            "Consistency": 0.67
+        }
+    },
+    "Tucker Kraft": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.19,
+            "Top 12": 0.44,
+            "Bust": 0.5,
+            "Other": 0.06,
+            "Consistency": 0.5
+        }
+    },
+    "David Njoku": {
+        "Position": "TE",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.18,
+            "Top 6": 0.45,
+            "Top 12": 0.55,
+            "Bust": 0.36,
+            "Other": 0.09,
+            "Consistency": 0.64
+        }
+    },
+    "Pat Freiermuth": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.13,
+            "Top 12": 0.38,
+            "Bust": 0.5,
+            "Other": 0.13,
+            "Consistency": 0.5
+        }
+    },
+    "Hunter Henry": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.13,
+            "Top 12": 0.44,
+            "Bust": 0.44,
+            "Other": 0.13,
+            "Consistency": 0.56
+        }
+    },
+    "Cade Otton": {
+        "Position": "TE",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.14,
+            "Top 6": 0.21,
+            "Top 12": 0.29,
+            "Bust": 0.43,
+            "Other": 0.29,
+            "Consistency": 0.57
+        }
+    },
+    "Kyle Pitts": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.13,
+            "Top 12": 0.31,
+            "Bust": 0.56,
+            "Other": 0.13,
+            "Consistency": 0.44
+        }
+    },
+    "Mike Gesicki": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.19,
+            "Top 12": 0.25,
+            "Bust": 0.63,
+            "Other": 0.13,
+            "Consistency": 0.37
+        }
+    },
+    "Cole Kmet": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.13,
+            "Top 6": 0.13,
+            "Top 12": 0.19,
+            "Bust": 0.69,
+            "Other": 0.13,
+            "Consistency": 0.31
+        }
+    },
+    "Isaiah Likely": {
+        "Position": "TE",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.07,
+            "Top 6": 0.13,
+            "Top 12": 0.27,
+            "Bust": 0.6,
+            "Other": 0.13,
+            "Consistency": 0.4
+        }
+    },
+    "Chig Okonkwo": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.06,
+            "Top 12": 0.25,
+            "Bust": 0.63,
+            "Other": 0.13,
+            "Consistency": 0.37
+        }
+    },
+    "Noah Gray": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.06,
+            "Top 6": 0.13,
+            "Top 12": 0.19,
+            "Bust": 0.69,
+            "Other": 0.13,
+            "Consistency": 0.31
+        }
+    },
+    "Tyler Conklin": {
+        "Position": "TE",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.07,
+            "Top 6": 0.07,
+            "Top 12": 0.4,
+            "Bust": 0.6,
+            "Other": 0.0,
+            "Consistency": 0.4
+        }
+    },
+    "Dalton Schultz": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.13,
+            "Top 12": 0.13,
+            "Bust": 0.69,
+            "Other": 0.19,
+            "Consistency": 0.31
+        }
+    },
+    "Juwan Johnson": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.25,
+            "Bust": 0.69,
+            "Other": 0.06,
+            "Consistency": 0.31
+        }
+    },
+    "Taysom Hill": {
+        "Position": "TE",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.13,
+            "Top 6": 0.25,
+            "Top 12": 0.38,
+            "Bust": 0.5,
+            "Other": 0.13,
+            "Consistency": 0.5
+        }
+    },
+    "Austin Hooper": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.06,
+            "Top 12": 0.13,
+            "Bust": 0.69,
+            "Other": 0.19,
+            "Consistency": 0.31
+        }
+    },
+    "Jake Ferguson": {
+        "Position": "TE",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.08,
+            "Top 12": 0.31,
+            "Bust": 0.54,
+            "Other": 0.15,
+            "Consistency": 0.46
+        }
+    },
+    "Dalton Kincaid": {
+        "Position": "TE",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.23,
+            "Bust": 0.54,
+            "Other": 0.23,
+            "Consistency": 0.46
+        }
+    },
+    "Foster Moreau": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.19,
+            "Bust": 0.69,
+            "Other": 0.13,
+            "Consistency": 0.31
+        }
+    },
+    "Will Dissly": {
+        "Position": "TE",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.14,
+            "Top 12": 0.14,
+            "Bust": 0.71,
+            "Other": 0.14,
+            "Consistency": 0.29
+        }
+    },
+    "Dallas Goedert": {
+        "Position": "TE",
+        "2024": {
+            "Games": 9,
+            "Boom": 0.11,
+            "Top 6": 0.11,
+            "Top 12": 0.44,
+            "Bust": 0.44,
+            "Other": 0.11,
+            "Consistency": 0.56
+        }
+    },
+    "Evan Engram": {
+        "Position": "TE",
+        "2024": {
+            "Games": 9,
+            "Boom": 0.0,
+            "Top 6": 0.11,
+            "Top 12": 0.44,
+            "Bust": 0.33,
+            "Other": 0.22,
+            "Consistency": 0.67
+        }
+    },
+    "Noah Fant": {
+        "Position": "TE",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.15,
+            "Bust": 0.69,
+            "Other": 0.15,
+            "Consistency": 0.31
+        }
+    },
+    "T.J. Hockenson": {
+        "Position": "TE",
+        "2024": {
+            "Games": 9,
+            "Boom": 0.0,
+            "Top 6": 0.22,
+            "Top 12": 0.33,
+            "Bust": 0.44,
+            "Other": 0.22,
+            "Consistency": 0.56
+        }
+    },
+    "Brenton Strange": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.06,
+            "Top 12": 0.19,
+            "Bust": 0.69,
+            "Other": 0.13,
+            "Consistency": 0.31
+        }
+    },
+    "Jordan Akins": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.13,
+            "Bust": 0.81,
+            "Other": 0.06,
+            "Consistency": 0.19
+        }
+    },
+    "Theo Johnson": {
+        "Position": "TE",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.08,
+            "Bust": 0.75,
+            "Other": 0.17,
+            "Consistency": 0.25
+        }
+    },
+    "Ja'Tavion Sanders": {
+        "Position": "TE",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.13,
+            "Bust": 0.73,
+            "Other": 0.13,
+            "Consistency": 0.27
+        }
+    },
+    "AJ Barner": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.06,
+            "Bust": 0.81,
+            "Other": 0.13,
+            "Consistency": 0.19
+        }
+    },
+    "Colby Parkinson": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.06,
+            "Bust": 0.81,
+            "Other": 0.13,
+            "Consistency": 0.19
+        }
+    },
+    "Josh Oliver": {
+        "Position": "TE",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.07,
+            "Top 12": 0.14,
+            "Bust": 0.71,
+            "Other": 0.14,
+            "Consistency": 0.29
+        }
+    },
+    "Dawson Knox": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.94,
+            "Other": 0.06,
+            "Consistency": 0.06
+        }
+    },
+    "Grant Calcaterra": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.13,
+            "Bust": 0.81,
+            "Other": 0.06,
+            "Consistency": 0.19
+        }
+    },
+    "Luke Schoonmaker": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.13,
+            "Bust": 0.75,
+            "Other": 0.13,
+            "Consistency": 0.25
+        }
+    },
+    "Josh Whyle": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.06,
+            "Bust": 0.88,
+            "Other": 0.06,
+            "Consistency": 0.12
+        }
+    },
+    "Elijah Higgins": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.94,
+            "Other": 0.06,
+            "Consistency": 0.06
+        }
+    },
+    "Tommy Tremble": {
+        "Position": "TE",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.09,
+            "Bust": 0.91,
+            "Other": 0.0,
+            "Consistency": 0.09
+        }
+    },
+    "Johnny Mundt": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.94,
+            "Other": 0.06,
+            "Consistency": 0.06
+        }
+    },
+    "Darnell Washington": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Nick Vannett": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.06,
+            "Bust": 0.88,
+            "Other": 0.06,
+            "Consistency": 0.12
+        }
+    },
+    "Adam Trautman": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.06,
+            "Top 12": 0.06,
+            "Bust": 0.88,
+            "Other": 0.06,
+            "Consistency": 0.12
+        }
+    },
+    "Nate Adkins": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.88,
+            "Other": 0.13,
+            "Consistency": 0.12
+        }
+    },
+    "Tanner Hudson": {
+        "Position": "TE",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.1,
+            "Top 12": 0.1,
+            "Bust": 0.9,
+            "Other": 0.0,
+            "Consistency": 0.1
+        }
+    },
+    "Erick All Jr.": {
+        "Position": "TE",
+        "2024": {
+            "Games": 9,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Brock Wright": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Stone Smartt": {
+        "Position": "TE",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.93,
+            "Other": 0.07,
+            "Consistency": 0.07
+        }
+    },
+    "Cade Stover": {
+        "Position": "TE",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.07,
+            "Bust": 0.93,
+            "Other": 0.0,
+            "Consistency": 0.07
+        }
+    },
+    "Lucas Krull": {
+        "Position": "TE",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Mo Alie-Cox": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.06,
+            "Bust": 0.94,
+            "Other": 0.0,
+            "Consistency": 0.06
+        }
+    },
+    "Drew Sample": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.06,
+            "Bust": 0.94,
+            "Other": 0.0,
+            "Consistency": 0.06
+        }
+    },
+    "Michael Mayer": {
+        "Position": "TE",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.1,
+            "Bust": 0.9,
+            "Other": 0.0,
+            "Consistency": 0.1
+        }
+    },
+    "Kylen Granson": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Charlie Kolar": {
+        "Position": "TE",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.08,
+            "Top 12": 0.08,
+            "Bust": 0.92,
+            "Other": 0.0,
+            "Consistency": 0.08
+        }
+    },
+    "Jeremy Ruckert": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Payne Durham": {
+        "Position": "TE",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.07,
+            "Bust": 0.93,
+            "Other": 0.0,
+            "Consistency": 0.07
+        }
+    },
+    "Daniel Bellinger": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.94,
+            "Other": 0.06,
+            "Consistency": 0.06
+        }
+    },
+    "Drew Ogletree": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.94,
+            "Other": 0.06,
+            "Consistency": 0.06
+        }
+    },
+    "Julian Hill": {
+        "Position": "TE",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Eric Saubert": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Brevyn Spann-Ford": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.94,
+            "Other": 0.06,
+            "Consistency": 0.06
+        }
+    },
+    "Harrison Bryant": {
+        "Position": "TE",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Luke Farrell": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Connor Heyward": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.94,
+            "Other": 0.06,
+            "Consistency": 0.06
+        }
+    },
+    "MyCole Pruitt": {
+        "Position": "TE",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Blake Whiteheart": {
+        "Position": "TE",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.9,
+            "Other": 0.1,
+            "Consistency": 0.1
+        }
+    },
+    "Hayden Hurst": {
+        "Position": "TE",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "John Bates": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Durham Smythe": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Ben Sinnott": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.94,
+            "Other": 0.06,
+            "Consistency": 0.06
+        }
+    },
+    "Hunter Long": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Pharaoh Brown": {
+        "Position": "TE",
+        "2024": {
+            "Games": 14,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Kenny Yeboah": {
+        "Position": "TE",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Gerald Everett": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Charlie Woerner": {
+        "Position": "TE",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Tyler Higbee": {
+        "Position": "TE",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Tucker Fisk": {
+        "Position": "TE",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Davis Allen": {
+        "Position": "TE",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.92,
+            "Other": 0.08,
+            "Consistency": 0.08
+        }
+    },
+    "Tip Reiman": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Quintin Morris": {
+        "Position": "TE",
+        "2024": {
+            "Games": 15,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Chris Manhertz": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Luke Musgrave": {
+        "Position": "TE",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Ben Sims": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Devin Culp": {
+        "Position": "TE",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 0.75,
+            "Other": 0.25,
+            "Consistency": 0.25
+        }
+    },
+    "Greg Dulcich": {
+        "Position": "TE",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Will Mallory": {
+        "Position": "TE",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Cam Grandy": {
+        "Position": "TE",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Peyton Hendershot": {
+        "Position": "TE",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Tanner Conner": {
+        "Position": "TE",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Josiah Deguara": {
+        "Position": "TE",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Ian Thomas": {
+        "Position": "TE",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Shane Zylstra": {
+        "Position": "TE",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Jack Stoll": {
+        "Position": "TE",
+        "2024": {
+            "Games": 9,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Eric Tomlinson": {
+        "Position": "TE",
+        "2024": {
+            "Games": 9,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Brevin Jordan": {
+        "Position": "TE",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Dallin Holker": {
+        "Position": "TE",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "John Samuel Shenker": {
+        "Position": "TE",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Jared Wiley": {
+        "Position": "TE",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Geoff Swaim": {
+        "Position": "TE",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "David Martin-Robinson": {
+        "Position": "TE",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Zach Davidson": {
+        "Position": "TE",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Jody Fortson Jr.": {
+        "Position": "TE",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Ross Dwelley": {
+        "Position": "TE",
+        "2024": {
+            "Games": 13,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "John FitzPatrick": {
+        "Position": "TE",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Marcedes Lewis": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Jaheim Bell": {
+        "Position": "TE",
+        "2024": {
+            "Games": 12,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Jordan Matthews": {
+        "Position": "TE",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Colson Yankoff": {
+        "Position": "TE",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "James Winchester": {
+        "Position": "TE",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Travis Vokolek": {
+        "Position": "TE",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Andrew Beck": {
+        "Position": "TE",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Mitchell Wilcox": {
+        "Position": "TE",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "James Mitchell": {
+        "Position": "TE",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Tyler Mabry": {
+        "Position": "TE",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Jack Westover": {
+        "Position": "TE",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Irv Smith Jr.": {
+        "Position": "TE",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Zack Kuntz": {
+        "Position": "TE",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Thomas Odukoya": {
+        "Position": "TE",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Teagan Quitoriano": {
+        "Position": "TE",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Nick Muse": {
+        "Position": "TE",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Robert Tonyan": {
+        "Position": "TE",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Leroy Watson": {
+        "Position": "TE",
+        "2024": {
+            "Games": 4,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Ko Kieft": {
+        "Position": "TE",
+        "2024": {
+            "Games": 16,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "E.J. Jenkins": {
+        "Position": "TE",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "C.J. Uzomah": {
+        "Position": "TE",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Anthony Firkser": {
+        "Position": "TE",
+        "2024": {
+            "Games": 6,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Princeton Fant": {
+        "Position": "TE",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Baylor Cupp": {
+        "Position": "TE",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Brady Russell": {
+        "Position": "TE",
+        "2024": {
+            "Games": 11,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Stephen Sullivan": {
+        "Position": "TE",
+        "2024": {
+            "Games": 1,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Rodney Williams": {
+        "Position": "TE",
+        "2024": {
+            "Games": 3,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Jake Tonges": {
+        "Position": "TE",
+        "2024": {
+            "Games": 10,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Parker Hesse": {
+        "Position": "TE",
+        "2024": {
+            "Games": 7,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Brenden Bates": {
+        "Position": "TE",
+        "2024": {
+            "Games": 5,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Brayden Willis": {
+        "Position": "TE",
+        "2024": {
+            "Games": 8,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    },
+    "Tanner McLachlan": {
+        "Position": "TE",
+        "2024": {
+            "Games": 2,
+            "Boom": 0.0,
+            "Top 6": 0.0,
+            "Top 12": 0.0,
+            "Bust": 1.0,
+            "Other": 0.0,
+            "Consistency": 0.0
+        }
+    }
+}
