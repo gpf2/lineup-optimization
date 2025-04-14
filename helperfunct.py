@@ -1,5 +1,5 @@
 import json
-from project.webscraping.weeklypoints import *
+from webscraping.weeklypoints import *
 import os
 import random
 
@@ -67,7 +67,8 @@ def generate_roster(year):
     position_groups = {"QB": [], "RB": [], "WR": [], "TE": [], "K": [], "DST": []}
     for player, info in data.items():
         pos = info.get("Position")
-        if pos in position_groups:
+        avg = info.get("AVG", 0)
+        if pos in position_groups and avg > 0:
             position_groups[pos].append(player)
 
     for players in position_groups.values():
@@ -112,9 +113,8 @@ def generate_roster(year):
     return {"Roster": roster}
 
 # Generates a random fantasy roster during a specified year (Lineup + bench)
-# Lineup constraints (9 players):
-# 1 QB, 2 WR, 2 RB, 1 TE, 1 FLEX: WR/RB/TE, 1 DEF/ST, 1 K
-# Bench constraints: 1 QB, 2/3 WR, 2/3 RB, 0/1 TE
+# Roster constraints (16 players):
+# 2 QB, 5 WR, 5 RB, 2 TE, 1 DEF/ST, 1 K
 def generate_smart_roster(year):
     json_path = f"weekly_fantasy_scores_{year}.json"
 
@@ -141,10 +141,10 @@ def generate_smart_roster(year):
 
     # Lineup constraints
     constraints = {
-        "QB": 1,
-        "RB": 2,
-        "WR": 2,
-        "TE": 1,
+        "QB": 2,
+        "RB": 5,
+        "WR": 5,
+        "TE": 2,
         "K": 1,
         "DST": 1 
     }
@@ -155,38 +155,4 @@ def generate_smart_roster(year):
             if player:
                 roster.append({player: {"Position": pos}})
 
-    # 1 flex
-    flex_pool = position_groups["RB"] + position_groups["WR"] + position_groups["TE"]
-    random.shuffle(flex_pool)
-    if flex_pool:
-        flex_pick = flex_pool.pop()
-        for pos in ["RB", "WR", "TE"]:
-            if flex_pick in position_groups[pos]:
-                position_groups[pos].remove(flex_pick)
-                break
-        roster.append({flex_pick: {"Position": pos}})
-
-    # Fill bench
-    bench = []
-    TE_amt = random.choice([0, 1])
-    if TE_amt == 0:
-        WR_amt = 3
-        RB_amt = 3
-    else:
-        WR_amt = random.choice([2, 3])
-        RB_amt = 5-WR_amt
-    bench_constraints = {
-        "QB": 1,
-        "TE": TE_amt,
-        "WR": WR_amt,
-        "RB": RB_amt
-    }
-
-    for pos, count in bench_constraints.items():
-        for _ in range(count):
-            player = pick(pos, position_groups)
-            if player:
-                bench.append({player: {"Position": pos}})
-
-    roster.extend(bench)
     return {"Roster": roster}

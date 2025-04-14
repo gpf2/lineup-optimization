@@ -29,7 +29,7 @@ def scrape_weekly_scores(year):
             pos = cols[2].text.strip()
             weekly_points = {}
 
-            for week in range(1,18):  
+            for week in range(1,16):  
                 cell_text = cols[3 + week].text.strip()
                 week_number = str(week)
 
