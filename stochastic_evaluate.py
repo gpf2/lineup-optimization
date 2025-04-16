@@ -3,7 +3,9 @@
 from stochastic_montecarlo import *
 from allie_rostergen import *
 
-num_evals = 3
+same = 0
+better = 0
+num_evals = 100
 options = generate_lineups(num_evals)
 for i in range(num_evals):
     num_better = 0
@@ -13,13 +15,13 @@ for i in range(num_evals):
     for week in range(1, 15):
         #get monte carlo roster
         roster, expected_score, rosters = monte_carlo_optimization(players, week)
-        print("Guessed score: ", expected_score)
+        #print("Guessed score: ", expected_score)
 
         #compare actual scored points vs what monte carlo guessed
         total_score = 0
         for player in roster:
             total_score+=(players[player]["scored points"])[week-1]
-        print("Actual score:", total_score)
+        #print("Actual score:", total_score)
 
         count=0
         better_scores = []
@@ -40,19 +42,22 @@ for i in range(num_evals):
             if proj_score>best_projected_score:
                 best_projected_roster=r
                 best_projected_score=proj_score
+        '''
         print()
         print(f"{count} possible rosters had a higher score")
         if count>0:
             print(f"Average better score: {np.mean(better_scores)}")
             print(f"Best score: {np.max(better_scores)}")
+        '''
         #determine what score i would've gotten if picking roster based on
         #projected points
         projected_roster_score = 0
         for player in best_projected_roster:
             projected_roster_score+=(players[player]["scored points"])[week-1]
+        '''
         print(f"Projected Roster scored {projected_roster_score}")
         print()
-        
+        '''
         if projected_roster_score<total_score:
             beat_proj+=1
         if projected_roster_score==total_score:
@@ -85,7 +90,14 @@ for i in range(num_evals):
                     ratio = ratio/10
                     players[player]["weights"][3]-=ratio
         players[player]["guessed scores"] = [0, 0, 0]
+    '''
     print(f"*****************************************************************")
     print(f"Average # of Higher Teams: {num_better/14}")
     print(f"Beat Projected {beat_proj} times - Same Projected {same_proj} times")
     print(f"*****************************************************************")
+    '''
+    same += same_proj
+    better += beat_proj
+
+print(same/num_iterations)
+print(better/num_iterations)

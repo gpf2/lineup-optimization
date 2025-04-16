@@ -2,7 +2,8 @@ import json
 from linear_interior import *
 from stochastic_montecarlo import generate_valid_rosters
 from allie_rostergen import *
-
+same = 0
+better = 0
 #checks if a returned roster is actually valid
 def is_valid_roster(roster):
     positions = ['QB', 'RB', 'RB', 'WR', 'WR', 'TE', 'K', 'DST', 'FLEX']
@@ -33,14 +34,14 @@ for i in range(num_evals):
     for week in range(1, 15):
         #get lp roster
         roster, expected_score = lp_optimization(players, week)
-        print(is_valid_roster(roster))
-        print("Guessed score: ", expected_score)
+        #print(is_valid_roster(roster))
+        #print("Guessed score: ", expected_score)
 
         #compare actual scored points vs what lp guessed
         total_score = 0
         for player in roster:
             total_score+=(players[player]["scored points"])[week-1]
-        print("Actual score:", total_score)
+        #print("Actual score:", total_score)
 
         count=0
         better_scores = []
@@ -61,18 +62,18 @@ for i in range(num_evals):
             if proj_score>best_projected_score:
                 best_projected_roster=r
                 best_projected_score=proj_score
-        print()
-        print(f"{count} possible rosters had a higher score")
-        if count>0:
-            print(f"Average better score: {np.mean(better_scores)}")
-            print(f"Best score: {np.max(better_scores)}")
+        #print()
+        #print(f"{count} possible rosters had a higher score")
+        #if count>0:
+        #    print(f"Average better score: {np.mean(better_scores)}")
+        #    print(f"Best score: {np.max(better_scores)}")
         #determine what score i would've gotten if picking roster based on
         #projected points
         projected_roster_score = 0
         for player in best_projected_roster:
             projected_roster_score+=(players[player]["scored points"])[week-1]
-        print(f"Projected Roster scored {projected_roster_score}")
-        print()
+        #print(f"Projected Roster scored {projected_roster_score}")
+        #print()
 
         if projected_roster_score<total_score:
             beat_proj+=1
@@ -88,13 +89,14 @@ for i in range(num_evals):
                 #update weights for guess vs projected points
                 actual_score = (players[player]["scored points"])[week-1]
                 if abs(proj-actual_score) > abs(guess - actual_score):
-                    players[player]["weights"][0]-=0.05
-                    players[player]["weights"][1]+=0.05
+                    players[player]["weights"][0]-=0.1
+                    players[player]["weights"][1]+=0.1
                 else:
-                    players[player]["weights"][1]-=0.05
-                    players[player]["weights"][0]+=0.05
+                    players[player]["weights"][1]-=0.1
+                    players[player]["weights"][0]+=0.1
         players[player]["guessed scores"] = [0, 0, 0]
-    print(f"*****************************************************************")
-    print(f"Average # of Higher Teams: {num_better/14}")
-    print(f"Beat Projected {beat_proj} times - Same Projected {same_proj} times")
-    print(f"*****************************************************************")
+    if is_valid_roster(roster):
+        same+=same_proj
+        better+=beat_proj
+print(same/num_evals)
+print(better/num_evals)
