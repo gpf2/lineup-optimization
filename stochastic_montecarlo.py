@@ -32,7 +32,7 @@ def simulate_player_score(players, player, week):
     
     prob = random.random()
     #if boom, scale the base up a little
-    if prob < p['boombust'][0]:
+    if prob >= 1-p['boombust'][0]:
         return projected, past_guess, base*random.uniform(p["weights"][2], p["weights"][2]+0.1)
     #if boom, scale the base down a little
     elif prob < p['boombust'][1]:
