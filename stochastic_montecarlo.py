@@ -3,8 +3,22 @@ import numpy as np
 from itertools import combinations
 import json
 
-num_iterations = 1000
+num_iterations = 500
 
+def weighted_avg_std(scores):
+    weighted_sum = 0
+    weights = []
+    for i, score in enumerate(reversed(scores)):
+        weight = 0.75*(0.25)**i
+        weights.append(weight)
+        weighted_sum += weight*score
+
+    mean = weighted_sum/np.sum(weights)
+    var = 0
+    for score, weight in zip(reversed(scores), weights):
+        var += weight*(score-mean)**2
+
+    return mean, (var/np.sum(weights))**0.5
 
 #maybe compare past predicted points to past actual scores to see how much to
 #weight the past_guess vs the current prediction
@@ -19,12 +33,10 @@ def simulate_player_score(players, player, week):
         projected = base
     #otherwise, combine past performance this season and the projected points
     else:
-        past_scores = p["scored points"][:week-1]
-        mean = np.mean(past_scores)
-        std_dev = np.std(past_scores)
+        mean, std = weighted_avg_std(p["prev season"]+p["scored points"][:week-1])
         #take a random var from a normal distribution of the past performances
         #this season
-        past_guess = max(np.random.normal(mean, std_dev), 0)
+        past_guess = max(np.random.normal(mean, std), 0)
 
         #take a combo of the projected points and the past performance
         projected = (p["projected points"])[week-1]

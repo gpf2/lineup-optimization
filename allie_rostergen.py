@@ -47,6 +47,42 @@ def initialize_player_data(players):
         for i in range(1,len(info), 1):
             scores.append(info[str(i)])
         players[p]["scored points"] = scores
+    
+    #add the past season scored points for each week to each players dictionary
+    with open('json/weekly_fantasy_scores_2022.json', 'r') as file:
+        data = json.load(file)
+    #replace none values with 0
+    for key, value in data.items():
+        points_scored = value["WeeklyPoints"]
+        for i in range(1,len(points_scored), 1):
+            if points_scored[str(i)]==None:
+                points_scored[str(i)]=0.0
+    for p in players:
+        if p in data:
+            info = (data[p])["WeeklyPoints"]
+            scores = []
+            for i in range(1,len(info), 1):
+                scores.append(info[str(i)])
+            players[p]["prev season"] = scores
+        else:
+            players[p]["prev season"] = []
+    with open('json/weekly_fantasy_scores_2023.json', 'r') as file:
+        data = json.load(file)
+    for key, value in data.items():
+        points_scored = value["WeeklyPoints"]
+        for i in range(1,len(points_scored), 1):
+            if points_scored[str(i)]==None:
+                points_scored[str(i)]=0.0
+    for p in players:
+        if p in data:
+            info = (data[p])["WeeklyPoints"]
+            scores = []
+            for i in range(1,len(info), 1):
+                scores.append(info[str(i)])
+            players[p]["prev season"] += scores
+        elif "prev season" not in players[p]:
+            print(1)
+            players[p]["prev season"] = []
 
     #add the boombust each players dictionary
     #initialize the weights and the score trackers

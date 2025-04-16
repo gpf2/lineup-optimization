@@ -2,6 +2,14 @@ import numpy as np
 import cvxpy as cp
 import json
 
+def weighted_avg(scores):
+    weighted_sum = 0
+    total_weight = 0
+    for i, score in enumerate(reversed(scores)):
+        weight = 0.75*(0.25)**i
+        weighted_sum += weight*score
+        total_weight += weight
+    return weighted_sum/total_weight
 
 #return 1 hot vector representing which players have a position in positions
 def position_vector(positions, players):
@@ -31,7 +39,7 @@ def lp_optimization(players, week):
 
         #get average past performance for each player
         if week > 1:
-            guess = np.mean(player["scored points"][:week-1])
+            guess = weighted_avg(player["prev season"]+player["scored points"][:week-1])
         else:
             guess = 0
         prev_scores.append(guess)

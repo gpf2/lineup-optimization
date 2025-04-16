@@ -8,11 +8,13 @@ better = 0
 num_evals = 100
 options = generate_lineups(num_evals)
 for i in range(num_evals):
+    print(i)
     num_better = 0
     same_proj = 0
     beat_proj = 0
     players = initialize_player_data(options[i])
     for week in range(1, 15):
+        print(week)
         #get monte carlo roster
         roster, expected_score, rosters = monte_carlo_optimization(players, week)
         #print("Guessed score: ", expected_score)
