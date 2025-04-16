@@ -7,7 +7,7 @@ import random
 # Provide a lineup in the following format
 # lineup = ["Player Name", "Player Name", ...]
 def calculate_lineup_score(lineup, year, week):
-    json_path = f"weekly_fantasy_scores_{year}.json"
+    json_path = f"json/weekly_fantasy_scores_{year}.json"
     if not os.path.exists(json_path):
         print(f"Scraping weekly scores for {year}")
         data = scrape_weekly_scores(year)
@@ -23,7 +23,6 @@ def calculate_lineup_score(lineup, year, week):
     total_score = 0.0
     breakdown = {}
 
-    print(f"Calculating lineup fantasy score for week {week}")
     for player in lineup:
         if player not in data:
             breakdown[player] = "Not found"
@@ -43,7 +42,13 @@ def calculate_lineup_score(lineup, year, week):
             total_score += score
             breakdown[player] = score
 
-    return total_score, breakdown
+    return total_score
+
+def get_total_projected_score(optimal):
+    total = 0
+    for i in optimal:
+        total+=i["AdjustedScore"] 
+    return total
 
 def pick(pos, position_groups):
     return position_groups[pos].pop() if position_groups[pos] else None
@@ -53,7 +58,7 @@ def pick(pos, position_groups):
 # 1 QB, 2 WR, 2 RB, 1 TE, 1 FLEX: WR/RB/TE, 1 DEF/ST, 1 K
 # Bench constraints: 7 spots for any position
 def generate_roster(year):
-    json_path = f"weekly_fantasy_scores_{year}.json"
+    json_path = f"json/weekly_fantasy_scores_{year}.json"
 
     if not os.path.exists(json_path):
         print(f"Scraping weekly scores for {year}")
@@ -90,33 +95,33 @@ def generate_roster(year):
         for _ in range(count):
             player = pick(pos, position_groups)
             if player:
-                roster.append({player: {"Position": pos}})
+                roster.append(player)
 
     # 1 flex
     flex_pool = position_groups["RB"] + position_groups["WR"] + position_groups["TE"]
     random.shuffle(flex_pool)
     if flex_pool:
-        flex_pick = flex_pool.pop()
+        flex = flex_pool.pop()
         for pos in ["RB", "WR", "TE"]:
-            if flex_pick in position_groups[pos]:
-                position_groups[pos].remove(flex_pick)
+            if flex in position_groups[pos]:
+                position_groups[pos].remove(flex)
                 break
-        roster.append({flex_pick: {"Position": pos}})
+        roster.append(flex)
 
     # Fill bench
     bench_needed = 16 - len(roster)
     bench_pool = []
     for pos, players in position_groups.items():
-        bench_pool.extend([{p: {"Position": pos}} for p in players])
+        bench_pool.extend([p for p in players])
     random.shuffle(bench_pool)
     roster.extend(bench_pool[:bench_needed])
-    return {"Roster": roster}
+    return roster
 
 # Generates a random fantasy roster during a specified year (Lineup + bench)
 # Roster constraints (16 players):
 # 2 QB, 5 WR, 5 RB, 2 TE, 1 DEF/ST, 1 K
 def generate_smart_roster(year):
-    json_path = f"weekly_fantasy_scores_{year}.json"
+    json_path = f"json/weekly_fantasy_scores_{year}.json"
 
     if not os.path.exists(json_path):
         print(f"Scraping weekly scores for {year}")
@@ -155,4 +160,4 @@ def generate_smart_roster(year):
             if player:
                 roster.append({player: {"Position": pos}})
 
-    return {"Roster": roster}
+    return roster
