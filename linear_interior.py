@@ -36,6 +36,7 @@ def lp_optimization(players, week):
             guess = 0
         prev_scores.append(guess)
         base = proj*player["weights"][0] + guess*player["weights"][1]
+        base = base + 5*(player['boombust'][0]-player['boombust'][1])
         
         #track projected, past, and guess for weight updates
         weights.append(player["weights"][:2])
