@@ -4438,7 +4438,7 @@
         "AVG": 6.9,
         "TTL": 118.0
     },
-    "A.J. Dillon": {
+    "AJ Dillon": {
         "Position": "RB",
         "Year": 2023,
         "WeeklyPoints": {
@@ -5818,29 +5818,6 @@
         "AVG": 5.7,
         "TTL": 84.8
     },
-    "Jerick McKinnon": {
-        "Position": "RB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": 2.0,
-            "2": 5.2,
-            "3": 17.8,
-            "4": 0.7,
-            "5": 4.5,
-            "6": 5.0,
-            "7": 4.6,
-            "8": 1.8,
-            "9": 10.4,
-            "10": null,
-            "11": 3.5,
-            "12": null,
-            "13": null,
-            "14": 12.7,
-            "15": 16.2
-        },
-        "AVG": 7.0,
-        "TTL": 84.4
-    },
     "Los Angeles Rams": {
         "Position": "DST",
         "Year": 2023,
@@ -5863,29 +5840,6 @@
         },
         "AVG": 4.9,
         "TTL": 83.0
-    },
-    "Latavius Murray": {
-        "Position": "RB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": 2.7,
-            "2": 11.1,
-            "3": 9.1,
-            "4": 7.6,
-            "5": 1.7,
-            "6": 4.5,
-            "7": 4.8,
-            "8": 2.1,
-            "9": 2.0,
-            "10": 14.9,
-            "11": 3.5,
-            "12": 7.8,
-            "13": null,
-            "14": 4.0,
-            "15": 7.1
-        },
-        "AVG": 5.2,
-        "TTL": 82.9
     },
     "Dameon Pierce": {
         "Position": "RB",
@@ -5979,7 +5933,7 @@
         "AVG": 6.7,
         "TTL": 80.2
     },
-    "Donald Parham Jr.": {
+    "Donald Parham": {
         "Position": "TE",
         "Year": 2023,
         "WeeklyPoints": {
@@ -6093,29 +6047,6 @@
         },
         "AVG": 8.7,
         "TTL": 78.1
-    },
-    "Brett Maher": {
-        "Position": "K",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": 15.0,
-            "2": 13.0,
-            "3": 11.0,
-            "4": 16.0,
-            "5": 2.0,
-            "6": 15.0,
-            "7": 4.0,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 9.6,
-        "TTL": 77.0
     },
     "Pat Freiermuth": {
         "Position": "TE",
@@ -6575,29 +6506,6 @@
             "15": null
         },
         "AVG": 14.0,
-        "TTL": 70.0
-    },
-    "Lucas Havrisik": {
-        "Position": "K",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": 7.0,
-            "9": 5.0,
-            "10": null,
-            "11": 5.0,
-            "12": 7.0,
-            "13": 11.0,
-            "14": 13.0,
-            "15": 8.0
-        },
-        "AVG": 7.8,
         "TTL": 70.0
     },
     "Keaton Mitchell": {
@@ -7681,29 +7589,6 @@
         "AVG": 3.7,
         "TTL": 48.7
     },
-    "Hunter Renfrow": {
-        "Position": "WR",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": 3.3,
-            "3": 3.7,
-            "4": 3.2,
-            "5": 1.7,
-            "6": 0.0,
-            "7": 3.4,
-            "8": 3.9,
-            "9": 5.2,
-            "10": 1.5,
-            "11": 9.2,
-            "12": 7.8,
-            "13": null,
-            "14": 5.6,
-            "15": 0.0
-        },
-        "AVG": 3.0,
-        "TTL": 48.5
-    },
     "Austin Hooper": {
         "Position": "TE",
         "Year": 2023,
@@ -7956,29 +7841,6 @@
         },
         "AVG": 3.7,
         "TTL": 44.2
-    },
-    "Darrell Henderson Jr.": {
-        "Position": "RB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": 13.6,
-            "8": 11.5,
-            "9": 5.5,
-            "10": null,
-            "11": 12.9,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 10.9,
-        "TTL": 43.5
     },
     "Kendre Miller": {
         "Position": "RB",
@@ -8877,29 +8739,6 @@
         "AVG": 2.0,
         "TTL": 34.1
     },
-    "Jimmy Graham": {
-        "Position": "TE",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": 0.0,
-            "3": 7.8,
-            "4": null,
-            "5": 0.0,
-            "6": 0.0,
-            "7": 0.0,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": 7.6,
-            "14": 9.6,
-            "15": 8.9
-        },
-        "AVG": 3.1,
-        "TTL": 33.9
-    },
     "Irv Smith Jr.": {
         "Position": "TE",
         "Year": 2023,
@@ -9291,52 +9130,6 @@
         "AVG": 2.0,
         "TTL": 29.6
     },
-    "Randy Bullock": {
-        "Position": "K",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": 0.0,
-            "10": 6.0,
-            "11": 7.0,
-            "12": 5.0,
-            "13": null,
-            "14": 6.0,
-            "15": 5.0
-        },
-        "AVG": 4.8,
-        "TTL": 29.0
-    },
-    "Matt Ammendola": {
-        "Position": "K",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": 13.0,
-            "11": 3.0,
-            "12": 3.0,
-            "13": 10.0,
-            "14": 0.0,
-            "15": null
-        },
-        "AVG": 5.8,
-        "TTL": 29.0
-    },
     "Jalen Reagor": {
         "Position": "WR",
         "Year": 2023,
@@ -9636,29 +9429,6 @@
         "AVG": 3.7,
         "TTL": 26.1
     },
-    "Michael Badgley": {
-        "Position": "K",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": 6.0
-        },
-        "AVG": 6.5,
-        "TTL": 26.0
-    },
     "MyCole Pruitt": {
         "Position": "TE",
         "Year": 2023,
@@ -9774,7 +9544,7 @@
         "AVG": 2.0,
         "TTL": 25.5
     },
-    "P.J. Walker": {
+    "PJ Walker": {
         "Position": "QB",
         "Year": 2023,
         "WeeklyPoints": {
@@ -9981,29 +9751,6 @@
         "AVG": 11.6,
         "TTL": 23.1
     },
-    "Mason Crosby": {
-        "Position": "K",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 7.7,
-        "TTL": 23.0
-    },
     "Cole Turner": {
         "Position": "TE",
         "Year": 2023,
@@ -10095,29 +9842,6 @@
         },
         "AVG": 2.5,
         "TTL": 22.6
-    },
-    "Lynn Bowden Jr.": {
-        "Position": "WR",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": 0.0,
-            "5": 0.0,
-            "6": 0.0,
-            "7": 0.0,
-            "8": 0.0,
-            "9": 0.0,
-            "10": 2.2,
-            "11": null,
-            "12": 4.0,
-            "13": 0.9,
-            "14": 6.4,
-            "15": 6.1
-        },
-        "AVG": 1.6,
-        "TTL": 22.5
     },
     "Robert Tonyan": {
         "Position": "TE",
@@ -10441,29 +10165,6 @@
         "AVG": 2.0,
         "TTL": 19.8
     },
-    "Melvin Gordon III": {
-        "Position": "RB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": 7.5,
-            "4": 5.4,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 4.9,
-        "TTL": 19.7
-    },
     "Geoff Swaim": {
         "Position": "TE",
         "Year": 2023,
@@ -10485,29 +10186,6 @@
             "15": 3.6
         },
         "AVG": 1.6,
-        "TTL": 19.4
-    },
-    "Richie James Jr.": {
-        "Position": "WR",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": 1.6,
-            "2": -2.0,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": 0.0,
-            "13": 2.2,
-            "14": 1.4,
-            "15": 2.7
-        },
-        "AVG": 2.2,
         "TTL": 19.4
     },
     "Tim Jones": {
@@ -10532,29 +10210,6 @@
         },
         "AVG": 1.2,
         "TTL": 19.3
-    },
-    "Damien Harris": {
-        "Position": "RB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": 3.9,
-            "2": 9.3,
-            "3": 1.5,
-            "4": 2.9,
-            "5": 1.3,
-            "6": 0.1,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 2.7,
-        "TTL": 19.0
     },
     "Isaiah Spiller": {
         "Position": "RB",
@@ -10647,29 +10302,6 @@
         },
         "AVG": 1.6,
         "TTL": 17.1
-    },
-    "Randall Cobb": {
-        "Position": "WR",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": 0.0,
-            "2": 0.0,
-            "3": 2.2,
-            "4": 2.8,
-            "5": 0.0,
-            "6": 2.0,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": 0.0,
-            "13": null,
-            "14": 8.5,
-            "15": 0.0
-        },
-        "AVG": 1.5,
-        "TTL": 16.9
     },
     "Jason Brownlee": {
         "Position": "WR",
@@ -11085,29 +10717,6 @@
         "AVG": 2.8,
         "TTL": 14.0
     },
-    "Marquise Goodwin": {
-        "Position": "WR",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": 0.0,
-            "2": 0.0,
-            "3": 0.1,
-            "4": 1.0,
-            "5": null,
-            "6": 3.4,
-            "7": 3.3,
-            "8": -0.5,
-            "9": 0.0,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": 0.0,
-            "15": 6.7
-        },
-        "AVG": 1.2,
-        "TTL": 14.0
-    },
     "Keaontay Ingram": {
         "Position": "RB",
         "Year": 2023,
@@ -11245,29 +10854,6 @@
         },
         "AVG": 0.9,
         "TTL": 12.9
-    },
-    "Brycen Hopkins": {
-        "Position": "TE",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": 3.1,
-            "2": 0.0,
-            "3": null,
-            "4": 1.5,
-            "5": 0.0,
-            "6": 0.0,
-            "7": 1.5,
-            "8": 0.0,
-            "9": 0.0,
-            "10": null,
-            "11": 0.0,
-            "12": null,
-            "13": null,
-            "14": 0.0,
-            "15": 0.0
-        },
-        "AVG": 0.9,
-        "TTL": 12.8
     },
     "Marcus Mariota": {
         "Position": "QB",
@@ -11428,29 +11014,6 @@
             "15": null
         },
         "AVG": 2.9,
-        "TTL": 11.6
-    },
-    "Blake Bell": {
-        "Position": "TE",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": 9.2,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": 0.0,
-            "6": 0.0,
-            "7": -0.3,
-            "8": 0.0,
-            "9": 0.0,
-            "10": null,
-            "11": 0.0,
-            "12": 0.0,
-            "13": 0.0,
-            "14": 0.0,
-            "15": 0.0
-        },
-        "AVG": 0.8,
         "TTL": 11.6
     },
     "Nick Bawden": {
@@ -11729,7 +11292,7 @@
         "AVG": 1.1,
         "TTL": 10.0
     },
-    "Ty Montgomery II": {
+    "Ty Montgomery": {
         "Position": "RB",
         "Year": 2023,
         "WeeklyPoints": {
@@ -11843,29 +11406,6 @@
         },
         "AVG": 2.3,
         "TTL": 9.3
-    },
-    "Blaine Gabbert": {
-        "Position": "QB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": -0.9,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 4.5,
-        "TTL": 8.9
     },
     "Tyler Johnson": {
         "Position": "WR",
@@ -12143,29 +11683,6 @@
         "AVG": 0.5,
         "TTL": 7.2
     },
-    "Brian Hoyer": {
-        "Position": "QB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": 3.8,
-            "7": 3.2,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 3.5,
-        "TTL": 6.9
-    },
     "Elijah Cooks": {
         "Position": "WR",
         "Year": 2023,
@@ -12212,29 +11729,6 @@
         "AVG": 0.4,
         "TTL": 6.7
     },
-    "Marvin Jones Jr.": {
-        "Position": "WR",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": 0.8,
-            "2": 0.0,
-            "3": null,
-            "4": 0.0,
-            "5": 4.2,
-            "6": 1.5,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 1.3,
-        "TTL": 6.5
-    },
     "Ke'Shawn Vaughn": {
         "Position": "RB",
         "Year": 2023,
@@ -12257,29 +11751,6 @@
         },
         "AVG": 1.3,
         "TTL": 6.4
-    },
-    "Keith Smith": {
-        "Position": "RB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": 0.0,
-            "2": 0.0,
-            "3": null,
-            "4": 0.0,
-            "5": 3.8,
-            "6": 0.0,
-            "7": 0.9,
-            "8": 0.0,
-            "9": null,
-            "10": 0.0,
-            "11": null,
-            "12": 1.6,
-            "13": 0.0,
-            "14": 0.0,
-            "15": 0.0
-        },
-        "AVG": 0.5,
-        "TTL": 6.3
     },
     "Nate Adkins": {
         "Position": "TE",
@@ -12442,7 +11913,7 @@
         "AVG": 1.9,
         "TTL": 5.6
     },
-    "Michael Strachan": {
+    "Mike Strachan": {
         "Position": "WR",
         "Year": 2023,
         "WeeklyPoints": {
@@ -12695,29 +12166,6 @@
         "AVG": 1.4,
         "TTL": 4.3
     },
-    "Alex Armah Jr.": {
-        "Position": "RB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": 1.0,
-            "9": 0.0,
-            "10": 1.3,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": 0.0
-        },
-        "AVG": 0.6,
-        "TTL": 4.3
-    },
     "Cooper Rush": {
         "Position": "QB",
         "Year": 2023,
@@ -12777,29 +12225,6 @@
             "7": null,
             "8": null,
             "9": 0.2,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 2.0,
-        "TTL": 4.0
-    },
-    "Leonard Fournette": {
-        "Position": "RB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
             "10": null,
             "11": null,
             "12": null,
@@ -12902,7 +12327,7 @@
         "AVG": 0.2,
         "TTL": 3.6
     },
-    "Willie Snead IV": {
+    "Willie Snead": {
         "Position": "WR",
         "Year": 2023,
         "WeeklyPoints": {
@@ -13017,76 +12442,7 @@
         "AVG": 1.0,
         "TTL": 3.1
     },
-    "Kenyan Drake": {
-        "Position": "RB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": 3.1,
-            "4": null,
-            "5": 0.0,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": 0.0
-        },
-        "AVG": 1.0,
-        "TTL": 3.1
-    },
-    "Trevon Wesco": {
-        "Position": "TE",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": 0.0,
-            "2": 0.0,
-            "3": null,
-            "4": null,
-            "5": 3.1,
-            "6": 0.0,
-            "7": null,
-            "8": 0.0,
-            "9": 0.0,
-            "10": 0.0,
-            "11": 0.0,
-            "12": 0.0,
-            "13": 0.0,
-            "14": 0.0,
-            "15": 0.0
-        },
-        "AVG": 0.2,
-        "TTL": 3.1
-    },
-    "Zonovan Knight": {
-        "Position": "RB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": 1.3,
-            "4": null,
-            "5": 1.8,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 1.6,
-        "TTL": 3.1
-    },
-    "Anthony McFarland Jr.": {
+    "Anthony McFarland": {
         "Position": "RB",
         "Year": 2023,
         "WeeklyPoints": {
@@ -13246,29 +12602,6 @@
         },
         "AVG": 0.2,
         "TTL": 2.4
-    },
-    "Devine Ozigbo": {
-        "Position": "RB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": 2.3,
-            "7": null,
-            "8": 0.0,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 1.2,
-        "TTL": 2.3
     },
     "Ross Dwelley": {
         "Position": "TE",
@@ -13868,29 +13201,6 @@
         "AVG": 0.5,
         "TTL": 1.0
     },
-    "AJ McCarron": {
-        "Position": "QB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": 0.0,
-            "15": null
-        },
-        "AVG": 0.4,
-        "TTL": 0.8
-    },
     "Logan Woodside": {
         "Position": "QB",
         "Year": 2023,
@@ -13937,7 +13247,7 @@
         "AVG": 0.1,
         "TTL": 0.5
     },
-    "Chris Pierce Jr.": {
+    "Chris Pierce": {
         "Position": "TE",
         "Year": 2023,
         "WeeklyPoints": {
@@ -14186,29 +13496,6 @@
             "13": null,
             "14": null,
             "15": null
-        },
-        "AVG": 0.0,
-        "TTL": 0.0
-    },
-    "Stephen Anderson": {
-        "Position": "TE",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": 0.0,
-            "14": 0.0,
-            "15": 0.0
         },
         "AVG": 0.0,
         "TTL": 0.0
@@ -14604,29 +13891,6 @@
         "AVG": 0.0,
         "TTL": 0.0
     },
-    "Marlon Mack": {
-        "Position": "RB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": 0.0,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": 0.0,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 0.0,
-        "TTL": 0.0
-    },
     "Skylar Thompson": {
         "Position": "QB",
         "Year": 2023,
@@ -14765,29 +14029,6 @@
         "AVG": 0.0,
         "TTL": 0.0
     },
-    "Bryant Koback": {
-        "Position": "RB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": 0.0,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 0.0,
-        "TTL": 0.0
-    },
     "David Sills": {
         "Position": "WR",
         "Year": 2023,
@@ -14804,52 +14045,6 @@
             "10": 0.0,
             "11": 0.0,
             "12": 0.0,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 0.0,
-        "TTL": 0.0
-    },
-    "Rodney Williams": {
-        "Position": "TE",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": 0.0,
-            "6": null,
-            "7": 0.0,
-            "8": 0.0,
-            "9": 0.0,
-            "10": 0.0,
-            "11": 0.0,
-            "12": 0.0,
-            "13": 0.0,
-            "14": 0.0,
-            "15": 0.0
-        },
-        "AVG": 0.0,
-        "TTL": 0.0
-    },
-    "Darrell Daniels": {
-        "Position": "TE",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": 0.0,
-            "6": 0.0,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
             "13": null,
             "14": null,
             "15": null
@@ -14903,29 +14098,6 @@
         "AVG": 0.0,
         "TTL": 0.0
     },
-    "Corey Clement": {
-        "Position": "RB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": 0.0,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": 0.0,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 0.0,
-        "TTL": 0.0
-    },
     "Isaiah Winstead": {
         "Position": "WR",
         "Year": 2023,
@@ -14944,29 +14116,6 @@
             "12": null,
             "13": null,
             "14": null,
-            "15": null
-        },
-        "AVG": 0.0,
-        "TTL": 0.0
-    },
-    "Matthew Slater": {
-        "Position": "WR",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": 0.0,
-            "5": 0.0,
-            "6": null,
-            "7": 0.0,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": 0.0,
             "15": null
         },
         "AVG": 0.0,
@@ -14995,29 +14144,6 @@
         "AVG": 0.0,
         "TTL": 0.0
     },
-    "Matt Bushman": {
-        "Position": "TE",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": 0.0,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 0.0,
-        "TTL": 0.0
-    },
     "Sean McKeon": {
         "Position": "TE",
         "Year": 2023,
@@ -15035,29 +14161,6 @@
             "11": 0.0,
             "12": 0.0,
             "13": 0.0,
-            "14": null,
-            "15": null
-        },
-        "AVG": 0.0,
-        "TTL": 0.0
-    },
-    "James Winchester": {
-        "Position": "TE",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": 0.0,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
             "14": null,
             "15": null
         },
@@ -15133,29 +14236,6 @@
         "AVG": 0.0,
         "TTL": 0.0
     },
-    "Devon Allen": {
-        "Position": "WR",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": 0.0,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 0.0,
-        "TTL": 0.0
-    },
     "Andy Isabella": {
         "Position": "WR",
         "Year": 2023,
@@ -15179,7 +14259,7 @@
         "AVG": 0.0,
         "TTL": 0.0
     },
-    "Phillip Dorsett II": {
+    "Phillip Dorsett": {
         "Position": "WR",
         "Year": 2023,
         "WeeklyPoints": {
@@ -15198,29 +14278,6 @@
             "13": null,
             "14": null,
             "15": null
-        },
-        "AVG": 0.0,
-        "TTL": 0.0
-    },
-    "Justin Hardee Sr.": {
-        "Position": "WR",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": 0.0,
-            "4": null,
-            "5": 0.0,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": 0.0,
-            "14": 0.0,
-            "15": 0.0
         },
         "AVG": 0.0,
         "TTL": 0.0
@@ -15317,29 +14374,6 @@
         "AVG": 0.0,
         "TTL": 0.0
     },
-    "Kirk Merritt": {
-        "Position": "WR",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": 0.0,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 0.0,
-        "TTL": 0.0
-    },
     "Kearis Jackson": {
         "Position": "WR",
         "Year": 2023,
@@ -15396,29 +14430,6 @@
             "4": null,
             "5": null,
             "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 0.0,
-        "TTL": 0.0
-    },
-    "Amari Rodgers": {
-        "Position": "WR",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": 0.0,
-            "6": 0.0,
             "7": null,
             "8": null,
             "9": null,
@@ -15501,29 +14512,6 @@
         "AVG": 0.0,
         "TTL": 0.0
     },
-    "Leroy Watson": {
-        "Position": "TE",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": 0.0,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": 0.0,
-            "15": 0.0
-        },
-        "AVG": 0.0,
-        "TTL": 0.0
-    },
     "Tyree Jackson": {
         "Position": "TE",
         "Year": 2023,
@@ -15570,7 +14558,7 @@
         "AVG": 0.0,
         "TTL": 0.0
     },
-    "Stanley Morgan Jr.": {
+    "Stanley Morgan": {
         "Position": "WR",
         "Year": 2023,
         "WeeklyPoints": {
@@ -15633,29 +14621,6 @@
             "11": null,
             "12": null,
             "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": 0.0,
-        "TTL": 0.0
-    },
-    "Albert Okwuegbunam Jr.": {
-        "Position": "TE",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": 0.0,
-            "10": null,
-            "11": 0.0,
-            "12": 0.0,
-            "13": 0.0,
             "14": null,
             "15": null
         },
@@ -15800,30 +14765,7 @@
         "AVG": 0.0,
         "TTL": 0.0
     },
-    "Tyler Kroft": {
-        "Position": "TE",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": 0.0,
-            "9": null,
-            "10": null,
-            "11": 0.0,
-            "12": 0.0,
-            "13": null,
-            "14": null,
-            "15": 0.0
-        },
-        "AVG": 0.0,
-        "TTL": 0.0
-    },
-    "Easop Winston Jr.": {
+    "Easop Winston": {
         "Position": "WR",
         "Year": 2023,
         "WeeklyPoints": {
@@ -15911,29 +14853,6 @@
             "13": null,
             "14": null,
             "15": 0.0
-        },
-        "AVG": 0.0,
-        "TTL": 0.0
-    },
-    "J.P. Holtz": {
-        "Position": "TE",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": 0.0,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
         },
         "AVG": 0.0,
         "TTL": 0.0
@@ -16121,52 +15040,6 @@
         },
         "AVG": -0.2,
         "TTL": -0.2
-    },
-    "Jonathan Williams": {
-        "Position": "RB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": -0.2
-        },
-        "AVG": -0.2,
-        "TTL": -0.2
-    },
-    "Matt Barkley": {
-        "Position": "QB",
-        "Year": 2023,
-        "WeeklyPoints": {
-            "1": null,
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null,
-            "14": null,
-            "15": null
-        },
-        "AVG": -0.3,
-        "TTL": -0.3
     },
     "Nathan Peterman": {
         "Position": "QB",

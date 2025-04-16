@@ -61,3 +61,5 @@ def initialize_player_data(players):
         players[p]["weights"] = [0.5, 0.5, 1.1, 0.9]
         players[p]["guessed scores"] = [0, 0, 0]
     return players
+
+
