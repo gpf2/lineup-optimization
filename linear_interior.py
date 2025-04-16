@@ -18,7 +18,7 @@ def lp_optimization(players, week):
     names = list(players.keys())
     #x tracks which people we pick like
     #xi between 0 and 1, higher represents we want to pick this player more
-    x = cp.Variable(16)
+    x = cp.Variable(16, boolean=True)
 
     projected_points = []
     prev_scores = []
@@ -66,9 +66,9 @@ def lp_optimization(players, week):
     ]
 
     problem = cp.Problem(objective, constraints)
-    problem.solve(solver=cp.ECOS)
+    problem.solve(solver=cp.ECOS_BB)
 
-    #get the players that we wanted to pick the most and their team score
+    #get the players that we picked and their team score
     sorted_idxs = np.argsort(-x.value)
     roster = []
     total_score = 0

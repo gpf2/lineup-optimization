@@ -98,5 +98,7 @@ for i in range(num_evals):
     if is_valid_roster(roster):
         same+=same_proj
         better+=beat_proj
+    else:
+        print(1)
 print(same/num_evals)
 print(better/num_evals)
