@@ -296,7 +296,6 @@ def initialize_player_data(players):
                 scores.append(info[str(i)])
             players[p]["prev season"] += scores
         elif "prev season" not in players[p]:
-            print(1)
             players[p]["prev season"] = []
 
     #add the boombust each players dictionary
