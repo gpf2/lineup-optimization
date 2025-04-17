@@ -1,4 +1,5 @@
 import json
+import numpy as np
 from webscraping.weeklypoints import *
 import os
 import random
@@ -161,3 +162,56 @@ def generate_smart_roster(year):
                 roster.append({player: {"Position": pos}})
 
     return roster
+
+def weighted_avg(scores):
+    weighted_sum = 0
+    total_weight = 0
+    for i, score in enumerate(reversed(scores)):
+        weight = 0.75*(0.25)**i
+        weighted_sum += weight*score
+        total_weight += weight
+    return weighted_sum/total_weight
+
+#return 1 hot vector representing which players have a position in positions
+def position_vector(positions, players):
+    vector = []
+    for name in list(players.keys()):
+        if players[name]["position"] in positions:
+            vector.append(1)
+        else:
+            vector.append(0)
+    return vector
+
+# create score vector for linear program objective function
+def make_score_vector(players, week):
+    assert(len(players)==16)
+    names = list(players.keys())
+    projected_points = []
+    prev_scores = []
+    weights = []
+
+    for name in names:
+        # get projected points for each player
+        player = players[name]
+        proj = player["projected points"][week-1]
+        projected_points.append(proj)
+
+        # get average past performance for each player
+        if week > 1:
+            guess = weighted_avg(player["prev season"]+player["scored points"][:week-1])
+        else:
+            guess = 0
+        prev_scores.append(guess)
+        base = proj*player["weights"][0] + guess*player["weights"][1]
+        base = base + 5*(player['boombust'][0]-player['boombust'][1])
+        
+        # track projected, past, and guess for weight updates
+        weights.append(player["weights"][:2])
+        player["guessed scores"] = [proj, guess, base]
+        
+    projected_points = np.array(projected_points)
+    prev_scores = np.array(prev_scores)
+    weights = np.array(weights)
+
+    # vector representing guess of what each player would score this week
+    return weights[:,0]*projected_points + weights[:,1]*prev_scores

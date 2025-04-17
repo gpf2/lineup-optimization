@@ -1,5 +1,4 @@
-import json
-from linear_interior import *
+from linear_programs import *
 from stochastic_montecarlo import generate_valid_rosters
 from allie_rostergen import *
 same = 0
@@ -33,7 +32,7 @@ for i in range(num_evals):
     same_proj = 0
     for week in range(1, 15):
         #get lp roster
-        roster, expected_score = lp_optimization(players, week)
+        roster, expected_score = optimize_lineup_interior(players, week)
         #print(is_valid_roster(roster))
         #print("Guessed score: ", expected_score)
 
