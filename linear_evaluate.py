@@ -1,6 +1,6 @@
 from linear_programs import *
 from stochastic_montecarlo import generate_valid_rosters
-from allie_rostergen import *
+from helperfunct import generate_lineups, initialize_player_data
 same = 0
 better = 0
 #checks if a returned roster is actually valid
