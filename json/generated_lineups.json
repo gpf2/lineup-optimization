@@ -1,0 +1,1252 @@
+[
+    {
+        "Malik Willis": {
+            "position": "QB"
+        },
+        "Dak Prescott": {
+            "position": "QB"
+        },
+        "Breece Hall": {
+            "position": "RB"
+        },
+        "Cordarrelle Patterson": {
+            "position": "RB"
+        },
+        "Antonio Gibson": {
+            "position": "RB"
+        },
+        "Rico Dowdle": {
+            "position": "RB"
+        },
+        "Emanuel Wilson": {
+            "position": "RB"
+        },
+        "Greg Dortch": {
+            "position": "WR"
+        },
+        "Ladd McConkey": {
+            "position": "WR"
+        },
+        "Dee Williams": {
+            "position": "WR"
+        },
+        "Tim Patrick": {
+            "position": "WR"
+        },
+        "Jaylen Johnson": {
+            "position": "WR"
+        },
+        "Eric Tomlinson": {
+            "position": "TE"
+        },
+        "Jack Westover": {
+            "position": "TE"
+        },
+        "Jack Browning": {
+            "position": "K"
+        },
+        "Baltimore Ravens": {
+            "position": "DST"
+        }
+    },
+    {
+        "Brock Purdy": {
+            "position": "QB"
+        },
+        "Tyler Huntley": {
+            "position": "QB"
+        },
+        "Rachaad White": {
+            "position": "RB"
+        },
+        "Gus Edwards": {
+            "position": "RB"
+        },
+        "Chris Brooks": {
+            "position": "RB"
+        },
+        "Clyde Edwards-Helaire": {
+            "position": "RB"
+        },
+        "Dylan Laube": {
+            "position": "RB"
+        },
+        "Jalen Reagor": {
+            "position": "WR"
+        },
+        "Jahan Dotson": {
+            "position": "WR"
+        },
+        "Cody Thompson": {
+            "position": "WR"
+        },
+        "Jonathan Mingo": {
+            "position": "WR"
+        },
+        "Calvin Austin III": {
+            "position": "WR"
+        },
+        "John Samuel Shenker": {
+            "position": "TE"
+        },
+        "Isaiah Likely": {
+            "position": "TE"
+        },
+        "Riley Patterson": {
+            "position": "K"
+        },
+        "Tennessee Titans": {
+            "position": "DST"
+        }
+    },
+    {
+        "Jordan Travis": {
+            "position": "QB"
+        },
+        "Bo Nix": {
+            "position": "QB"
+        },
+        "Deuce Vaughn": {
+            "position": "RB"
+        },
+        "Samaje Perine": {
+            "position": "RB"
+        },
+        "Ty Chandler": {
+            "position": "RB"
+        },
+        "Alec Ingold": {
+            "position": "RB"
+        },
+        "Michael Burton": {
+            "position": "RB"
+        },
+        "Davante Adams": {
+            "position": "WR"
+        },
+        "Bo Melton": {
+            "position": "WR"
+        },
+        "Jalen Brooks": {
+            "position": "WR"
+        },
+        "Alec Pierce": {
+            "position": "WR"
+        },
+        "Mike Williams": {
+            "position": "WR"
+        },
+        "Shane Zylstra": {
+            "position": "TE"
+        },
+        "John Samuel Shenker": {
+            "position": "TE"
+        },
+        "Joey Slye": {
+            "position": "K"
+        },
+        "Cleveland Browns": {
+            "position": "DST"
+        }
+    },
+    {
+        "Emory Jones": {
+            "position": "QB"
+        },
+        "Jalen Hurts": {
+            "position": "QB"
+        },
+        "Keaton Mitchell": {
+            "position": "RB"
+        },
+        "Breece Hall": {
+            "position": "RB"
+        },
+        "La'Mical Perine": {
+            "position": "RB"
+        },
+        "Devin Singletary": {
+            "position": "RB"
+        },
+        "Isiah Pacheco": {
+            "position": "RB"
+        },
+        "Terry McLaurin": {
+            "position": "WR"
+        },
+        "Christian Watson": {
+            "position": "WR"
+        },
+        "Elijah Moore": {
+            "position": "WR"
+        },
+        "Andrei Iosivas": {
+            "position": "WR"
+        },
+        "Jahan Dotson": {
+            "position": "WR"
+        },
+        "Parker Hesse": {
+            "position": "TE"
+        },
+        "Brenden Bates": {
+            "position": "TE"
+        },
+        "Jason Myers": {
+            "position": "K"
+        },
+        "Seattle Seahawks": {
+            "position": "DST"
+        }
+    },
+    {
+        "C.J. Stroud": {
+            "position": "QB"
+        },
+        "Tim Boyle": {
+            "position": "QB"
+        },
+        "Sione Vaki": {
+            "position": "RB"
+        },
+        "Zack Moss": {
+            "position": "RB"
+        },
+        "Cody Schrader": {
+            "position": "RB"
+        },
+        "Braelon Allen": {
+            "position": "RB"
+        },
+        "Jordan Mason": {
+            "position": "RB"
+        },
+        "Keenan Allen": {
+            "position": "WR"
+        },
+        "DJ Moore": {
+            "position": "WR"
+        },
+        "Michael Wilson": {
+            "position": "WR"
+        },
+        "Joshua Cephus": {
+            "position": "WR"
+        },
+        "Ray-Ray McCloud III": {
+            "position": "WR"
+        },
+        "Luke Farrell": {
+            "position": "TE"
+        },
+        "Josiah Deguara": {
+            "position": "TE"
+        },
+        "Daniel Carlson": {
+            "position": "K"
+        },
+        "Los Angeles Chargers": {
+            "position": "DST"
+        }
+    },
+    {
+        "Jared Goff": {
+            "position": "QB"
+        },
+        "Jordan Love": {
+            "position": "QB"
+        },
+        "Ray Davis": {
+            "position": "RB"
+        },
+        "Kendall Milton": {
+            "position": "RB"
+        },
+        "Chris Rodriguez Jr.": {
+            "position": "RB"
+        },
+        "D'Onta Foreman": {
+            "position": "RB"
+        },
+        "MarShawn Lloyd": {
+            "position": "RB"
+        },
+        "Brian Thomas Jr.": {
+            "position": "WR"
+        },
+        "Demarcus Robinson": {
+            "position": "WR"
+        },
+        "Rashee Rice": {
+            "position": "WR"
+        },
+        "Marquez Callaway": {
+            "position": "WR"
+        },
+        "Stefon Diggs": {
+            "position": "WR"
+        },
+        "Ross Dwelley": {
+            "position": "TE"
+        },
+        "James Mitchell": {
+            "position": "TE"
+        },
+        "Tyler Bass": {
+            "position": "K"
+        },
+        "Washington Commanders": {
+            "position": "DST"
+        }
+    },
+    {
+        "Baker Mayfield": {
+            "position": "QB"
+        },
+        "Tua Tagovailoa": {
+            "position": "QB"
+        },
+        "D'Onta Foreman": {
+            "position": "RB"
+        },
+        "Jabari Small": {
+            "position": "RB"
+        },
+        "Patrick Taylor Jr.": {
+            "position": "RB"
+        },
+        "Raheem Blackshear": {
+            "position": "RB"
+        },
+        "Trey Benson": {
+            "position": "RB"
+        },
+        "Keon Coleman": {
+            "position": "WR"
+        },
+        "Malachi Corley": {
+            "position": "WR"
+        },
+        "Michael Pittman Jr.": {
+            "position": "WR"
+        },
+        "Justin Shorter": {
+            "position": "WR"
+        },
+        "Equanimeous St. Brown": {
+            "position": "WR"
+        },
+        "John FitzPatrick": {
+            "position": "TE"
+        },
+        "Ross Dwelley": {
+            "position": "TE"
+        },
+        "Jude McAtamney": {
+            "position": "K"
+        },
+        "Minnesota Vikings": {
+            "position": "DST"
+        }
+    },
+    {
+        "Austin Reed": {
+            "position": "QB"
+        },
+        "Tyrod Taylor": {
+            "position": "QB"
+        },
+        "Chuba Hubbard": {
+            "position": "RB"
+        },
+        "Brian Robinson Jr.": {
+            "position": "RB"
+        },
+        "Tyler Goodson": {
+            "position": "RB"
+        },
+        "Bijan Robinson": {
+            "position": "RB"
+        },
+        "Clyde Edwards-Helaire": {
+            "position": "RB"
+        },
+        "Wan'Dale Robinson": {
+            "position": "WR"
+        },
+        "Jalin Hyatt": {
+            "position": "WR"
+        },
+        "Ben Skowronek": {
+            "position": "WR"
+        },
+        "Josh Downs": {
+            "position": "WR"
+        },
+        "Tutu Atwell": {
+            "position": "WR"
+        },
+        "Tyler Higbee": {
+            "position": "TE"
+        },
+        "Brayden Willis": {
+            "position": "TE"
+        },
+        "Greg Joseph": {
+            "position": "K"
+        },
+        "Atlanta Falcons": {
+            "position": "DST"
+        }
+    },
+    {
+        "Anthony Richardson": {
+            "position": "QB"
+        },
+        "Tommy DeVito": {
+            "position": "QB"
+        },
+        "Eric Gray": {
+            "position": "RB"
+        },
+        "Emari Demercado": {
+            "position": "RB"
+        },
+        "Alvin Kamara": {
+            "position": "RB"
+        },
+        "Josh Jacobs": {
+            "position": "RB"
+        },
+        "Christian McCaffrey": {
+            "position": "RB"
+        },
+        "Terrace Marshall Jr.": {
+            "position": "WR"
+        },
+        "Grant DuBose": {
+            "position": "WR"
+        },
+        "Ben Skowronek": {
+            "position": "WR"
+        },
+        "Jaxon Smith-Njigba": {
+            "position": "WR"
+        },
+        "JuJu Smith-Schuster": {
+            "position": "WR"
+        },
+        "Kyle Pitts": {
+            "position": "TE"
+        },
+        "Nick Vannett": {
+            "position": "TE"
+        },
+        "Cameron Dicker": {
+            "position": "K"
+        },
+        "New England Patriots": {
+            "position": "DST"
+        }
+    },
+    {
+        "Mitchell Trubisky": {
+            "position": "QB"
+        },
+        "Carson Wentz": {
+            "position": "QB"
+        },
+        "Jamaal Williams": {
+            "position": "RB"
+        },
+        "Troy Hairston II": {
+            "position": "RB"
+        },
+        "Audric Estime": {
+            "position": "RB"
+        },
+        "De'Von Achane": {
+            "position": "RB"
+        },
+        "Jeff Wilson Jr.": {
+            "position": "RB"
+        },
+        "Mason Kinsey": {
+            "position": "WR"
+        },
+        "Brycen Tremayne": {
+            "position": "WR"
+        },
+        "Jha'Quan Jackson": {
+            "position": "WR"
+        },
+        "Jermaine Burton": {
+            "position": "WR"
+        },
+        "Jayden Reed": {
+            "position": "WR"
+        },
+        "John Samuel Shenker": {
+            "position": "TE"
+        },
+        "Quintin Morris": {
+            "position": "TE"
+        },
+        "Harrison Butker": {
+            "position": "K"
+        },
+        "Cleveland Browns": {
+            "position": "DST"
+        }
+    },
+    {
+        "Derek Carr": {
+            "position": "QB"
+        },
+        "Mike White": {
+            "position": "QB"
+        },
+        "Gus Edwards": {
+            "position": "RB"
+        },
+        "Samaje Perine": {
+            "position": "RB"
+        },
+        "Tony Jones Jr.": {
+            "position": "RB"
+        },
+        "Tyrion Davis-Price": {
+            "position": "RB"
+        },
+        "British Brooks": {
+            "position": "RB"
+        },
+        "Jakobi Meyers": {
+            "position": "WR"
+        },
+        "Jalen Reagor": {
+            "position": "WR"
+        },
+        "Justin Shorter": {
+            "position": "WR"
+        },
+        "Cody White": {
+            "position": "WR"
+        },
+        "KaVontae Turpin": {
+            "position": "WR"
+        },
+        "Shane Zylstra": {
+            "position": "TE"
+        },
+        "Kylen Granson": {
+            "position": "TE"
+        },
+        "Parker Romo": {
+            "position": "K"
+        },
+        "Carolina Panthers": {
+            "position": "DST"
+        }
+    },
+    {
+        "Dak Prescott": {
+            "position": "QB"
+        },
+        "Cooper Rush": {
+            "position": "QB"
+        },
+        "Julius Chestnut": {
+            "position": "RB"
+        },
+        "Kenny McIntosh": {
+            "position": "RB"
+        },
+        "Kendall Milton": {
+            "position": "RB"
+        },
+        "Trayveon Williams": {
+            "position": "RB"
+        },
+        "Miles Sanders": {
+            "position": "RB"
+        },
+        "Jordan Addison": {
+            "position": "WR"
+        },
+        "CeeDee Lamb": {
+            "position": "WR"
+        },
+        "Calvin Austin III": {
+            "position": "WR"
+        },
+        "Josh Reynolds": {
+            "position": "WR"
+        },
+        "Dee Williams": {
+            "position": "WR"
+        },
+        "Travis Kelce": {
+            "position": "TE"
+        },
+        "John Samuel Shenker": {
+            "position": "TE"
+        },
+        "Matt Gay": {
+            "position": "K"
+        },
+        "Cleveland Browns": {
+            "position": "DST"
+        }
+    },
+    {
+        "Gardner Minshew II": {
+            "position": "QB"
+        },
+        "Austin Reed": {
+            "position": "QB"
+        },
+        "Ameer Abdullah": {
+            "position": "RB"
+        },
+        "Chris Brooks": {
+            "position": "RB"
+        },
+        "DeeJay Dallas": {
+            "position": "RB"
+        },
+        "Justice Hill": {
+            "position": "RB"
+        },
+        "D'Ernest Johnson": {
+            "position": "RB"
+        },
+        "Curtis Samuel": {
+            "position": "WR"
+        },
+        "Mason Tipton": {
+            "position": "WR"
+        },
+        "Marquise Brown": {
+            "position": "WR"
+        },
+        "Ja'Marr Chase": {
+            "position": "WR"
+        },
+        "Jake Bobo": {
+            "position": "WR"
+        },
+        "Kylen Granson": {
+            "position": "TE"
+        },
+        "Foster Moreau": {
+            "position": "TE"
+        },
+        "Brayden Narveson": {
+            "position": "K"
+        },
+        "Detroit Lions": {
+            "position": "DST"
+        }
+    },
+    {
+        "Hendon Hooker": {
+            "position": "QB"
+        },
+        "Jake Luton": {
+            "position": "QB"
+        },
+        "C.J. Ham": {
+            "position": "RB"
+        },
+        "Zach Charbonnet": {
+            "position": "RB"
+        },
+        "Jonathan Ward": {
+            "position": "RB"
+        },
+        "Blake Watson": {
+            "position": "RB"
+        },
+        "Jonathon Brooks": {
+            "position": "RB"
+        },
+        "Velus Jones Jr.": {
+            "position": "WR"
+        },
+        "John Ross": {
+            "position": "WR"
+        },
+        "Bryce Oliver": {
+            "position": "WR"
+        },
+        "Cedric Tillman": {
+            "position": "WR"
+        },
+        "Josh Reynolds": {
+            "position": "WR"
+        },
+        "Davis Allen": {
+            "position": "TE"
+        },
+        "Johnny Mundt": {
+            "position": "TE"
+        },
+        "Zane Gonzalez": {
+            "position": "K"
+        },
+        "Cincinnati Bengals": {
+            "position": "DST"
+        }
+    },
+    {
+        "Hendon Hooker": {
+            "position": "QB"
+        },
+        "Taylor Heinicke": {
+            "position": "QB"
+        },
+        "D'Ernest Johnson": {
+            "position": "RB"
+        },
+        "Michael Carter": {
+            "position": "RB"
+        },
+        "Chris Brooks": {
+            "position": "RB"
+        },
+        "Alvin Kamara": {
+            "position": "RB"
+        },
+        "D'Onta Foreman": {
+            "position": "RB"
+        },
+        "Allen Robinson II": {
+            "position": "WR"
+        },
+        "Andrei Iosivas": {
+            "position": "WR"
+        },
+        "Laquon Treadwell": {
+            "position": "WR"
+        },
+        "Chris Moore": {
+            "position": "WR"
+        },
+        "Irvin Charles": {
+            "position": "WR"
+        },
+        "Darnell Washington": {
+            "position": "TE"
+        },
+        "Lucas Krull": {
+            "position": "TE"
+        },
+        "Anders Carlson": {
+            "position": "K"
+        },
+        "Los Angeles Rams": {
+            "position": "DST"
+        }
+    },
+    {
+        "Patrick Mahomes II": {
+            "position": "QB"
+        },
+        "Sam Hartman": {
+            "position": "QB"
+        },
+        "Chuba Hubbard": {
+            "position": "RB"
+        },
+        "Jordan Mims": {
+            "position": "RB"
+        },
+        "Trey Benson": {
+            "position": "RB"
+        },
+        "Jermar Jefferson": {
+            "position": "RB"
+        },
+        "Terrell Jennings": {
+            "position": "RB"
+        },
+        "Diontae Johnson": {
+            "position": "WR"
+        },
+        "Tee Higgins": {
+            "position": "WR"
+        },
+        "Steven Sims Jr.": {
+            "position": "WR"
+        },
+        "Laquon Treadwell": {
+            "position": "WR"
+        },
+        "Trishton Jackson": {
+            "position": "WR"
+        },
+        "Dallin Holker": {
+            "position": "TE"
+        },
+        "Ben Sims": {
+            "position": "TE"
+        },
+        "Chad Ryland": {
+            "position": "K"
+        },
+        "Chicago Bears": {
+            "position": "DST"
+        }
+    },
+    {
+        "Jimmy Garoppolo": {
+            "position": "QB"
+        },
+        "Joe Milton III": {
+            "position": "QB"
+        },
+        "Kendall Milton": {
+            "position": "RB"
+        },
+        "Alvin Kamara": {
+            "position": "RB"
+        },
+        "C.J. Ham": {
+            "position": "RB"
+        },
+        "Troy Hairston II": {
+            "position": "RB"
+        },
+        "John Kelly Jr.": {
+            "position": "RB"
+        },
+        "Ainias Smith": {
+            "position": "WR"
+        },
+        "River Cracraft": {
+            "position": "WR"
+        },
+        "Jalen Coker": {
+            "position": "WR"
+        },
+        "Deonte Harty": {
+            "position": "WR"
+        },
+        "Michael Pittman Jr.": {
+            "position": "WR"
+        },
+        "Drew Sample": {
+            "position": "TE"
+        },
+        "Noah Gray": {
+            "position": "TE"
+        },
+        "Tyler Bass": {
+            "position": "K"
+        },
+        "Seattle Seahawks": {
+            "position": "DST"
+        }
+    },
+    {
+        "Aidan O'Connell": {
+            "position": "QB"
+        },
+        "Tyson Bagent": {
+            "position": "QB"
+        },
+        "C.J. Ham": {
+            "position": "RB"
+        },
+        "Antonio Gibson": {
+            "position": "RB"
+        },
+        "Alexander Mattison": {
+            "position": "RB"
+        },
+        "Jonathan Ward": {
+            "position": "RB"
+        },
+        "Chris Collier": {
+            "position": "RB"
+        },
+        "Mike Evans": {
+            "position": "WR"
+        },
+        "Trishton Jackson": {
+            "position": "WR"
+        },
+        "Ashton Dulin": {
+            "position": "WR"
+        },
+        "Terrace Marshall Jr.": {
+            "position": "WR"
+        },
+        "Justyn Ross": {
+            "position": "WR"
+        },
+        "Noah Gray": {
+            "position": "TE"
+        },
+        "Charlie Woerner": {
+            "position": "TE"
+        },
+        "Will Reichard": {
+            "position": "K"
+        },
+        "Baltimore Ravens": {
+            "position": "DST"
+        }
+    },
+    {
+        "Baker Mayfield": {
+            "position": "QB"
+        },
+        "Jeff Driskel": {
+            "position": "QB"
+        },
+        "Travis Etienne Jr.": {
+            "position": "RB"
+        },
+        "Nick Chubb": {
+            "position": "RB"
+        },
+        "Travis Homer": {
+            "position": "RB"
+        },
+        "Chris Collier": {
+            "position": "RB"
+        },
+        "Mike Boone": {
+            "position": "RB"
+        },
+        "Laquon Treadwell": {
+            "position": "WR"
+        },
+        "Xavier Worthy": {
+            "position": "WR"
+        },
+        "Bub Means": {
+            "position": "WR"
+        },
+        "Tom Kennedy": {
+            "position": "WR"
+        },
+        "Olamide Zaccheaus": {
+            "position": "WR"
+        },
+        "Lucas Krull": {
+            "position": "TE"
+        },
+        "Stephen Sullivan": {
+            "position": "TE"
+        },
+        "Harrison Butker": {
+            "position": "K"
+        },
+        "Miami Dolphins": {
+            "position": "DST"
+        }
+    },
+    {
+        "Mike White": {
+            "position": "QB"
+        },
+        "Marcus Mariota": {
+            "position": "QB"
+        },
+        "Kareem Hunt": {
+            "position": "RB"
+        },
+        "Jerome Ford": {
+            "position": "RB"
+        },
+        "Tyrone Tracy Jr.": {
+            "position": "RB"
+        },
+        "Tony Pollard": {
+            "position": "RB"
+        },
+        "D'Onta Foreman": {
+            "position": "RB"
+        },
+        "Michael Wilson": {
+            "position": "WR"
+        },
+        "DJ Chark Jr.": {
+            "position": "WR"
+        },
+        "Courtland Sutton": {
+            "position": "WR"
+        },
+        "Justin Shorter": {
+            "position": "WR"
+        },
+        "Isaiah Williams": {
+            "position": "WR"
+        },
+        "Shane Zylstra": {
+            "position": "TE"
+        },
+        "Zach Davidson": {
+            "position": "TE"
+        },
+        "Brandon McManus": {
+            "position": "K"
+        },
+        "Philadelphia Eagles": {
+            "position": "DST"
+        }
+    },
+    {
+        "Patrick Mahomes II": {
+            "position": "QB"
+        },
+        "Trevor Siemian": {
+            "position": "QB"
+        },
+        "Pierre Strong Jr.": {
+            "position": "RB"
+        },
+        "Roschon Johnson": {
+            "position": "RB"
+        },
+        "Cody Schrader": {
+            "position": "RB"
+        },
+        "Ray Davis": {
+            "position": "RB"
+        },
+        "Jonathon Brooks": {
+            "position": "RB"
+        },
+        "Brandon Johnson": {
+            "position": "WR"
+        },
+        "Seth Williams": {
+            "position": "WR"
+        },
+        "Ja'Lynn Polk": {
+            "position": "WR"
+        },
+        "Kazmeir Allen": {
+            "position": "WR"
+        },
+        "Jake Bobo": {
+            "position": "WR"
+        },
+        "Jack Stoll": {
+            "position": "TE"
+        },
+        "Sam LaPorta": {
+            "position": "TE"
+        },
+        "Dustin Hopkins": {
+            "position": "K"
+        },
+        "Tennessee Titans": {
+            "position": "DST"
+        }
+    },
+    {
+        "Kyler Murray": {
+            "position": "QB"
+        },
+        "Gardner Minshew II": {
+            "position": "QB"
+        },
+        "Rachaad White": {
+            "position": "RB"
+        },
+        "D'Onta Foreman": {
+            "position": "RB"
+        },
+        "Cam Akers": {
+            "position": "RB"
+        },
+        "Dylan Laube": {
+            "position": "RB"
+        },
+        "Kyren Williams": {
+            "position": "RB"
+        },
+        "Christian Kirk": {
+            "position": "WR"
+        },
+        "Trent Taylor": {
+            "position": "WR"
+        },
+        "Kendric Pryor": {
+            "position": "WR"
+        },
+        "Darius Slayton": {
+            "position": "WR"
+        },
+        "Jameson Williams": {
+            "position": "WR"
+        },
+        "Stone Smartt": {
+            "position": "TE"
+        },
+        "Ian Thomas": {
+            "position": "TE"
+        },
+        "Ka'imi Fairbairn": {
+            "position": "K"
+        },
+        "Tennessee Titans": {
+            "position": "DST"
+        }
+    },
+    {
+        "Joe Burrow": {
+            "position": "QB"
+        },
+        "Josh Allen": {
+            "position": "QB"
+        },
+        "Reggie Gilliam": {
+            "position": "RB"
+        },
+        "Jaylen Warren": {
+            "position": "RB"
+        },
+        "Ezekiel Elliott": {
+            "position": "RB"
+        },
+        "Saquon Barkley": {
+            "position": "RB"
+        },
+        "Miles Sanders": {
+            "position": "RB"
+        },
+        "Andrei Iosivas": {
+            "position": "WR"
+        },
+        "Jamari Thrash": {
+            "position": "WR"
+        },
+        "Jaxon Smith-Njigba": {
+            "position": "WR"
+        },
+        "Charlie Jones": {
+            "position": "WR"
+        },
+        "Davante Adams": {
+            "position": "WR"
+        },
+        "Austin Hooper": {
+            "position": "TE"
+        },
+        "Jeremy Ruckert": {
+            "position": "TE"
+        },
+        "Harrison Butker": {
+            "position": "K"
+        },
+        "New Orleans Saints": {
+            "position": "DST"
+        }
+    },
+    {
+        "Mike White": {
+            "position": "QB"
+        },
+        "Kyler Murray": {
+            "position": "QB"
+        },
+        "Josh Jacobs": {
+            "position": "RB"
+        },
+        "DeeJay Dallas": {
+            "position": "RB"
+        },
+        "Bucky Irving": {
+            "position": "RB"
+        },
+        "Joshua Kelley": {
+            "position": "RB"
+        },
+        "Tyrone Tracy Jr.": {
+            "position": "RB"
+        },
+        "Dyami Brown": {
+            "position": "WR"
+        },
+        "Ashton Dulin": {
+            "position": "WR"
+        },
+        "Tyler Boyd": {
+            "position": "WR"
+        },
+        "Joshua Cephus": {
+            "position": "WR"
+        },
+        "Xavier Smith": {
+            "position": "WR"
+        },
+        "Mark Andrews": {
+            "position": "TE"
+        },
+        "Brenden Bates": {
+            "position": "TE"
+        },
+        "Austin Seibert": {
+            "position": "K"
+        },
+        "Buffalo Bills": {
+            "position": "DST"
+        }
+    },
+    {
+        "Jake Haener": {
+            "position": "QB"
+        },
+        "Joshua Dobbs": {
+            "position": "QB"
+        },
+        "Trey Benson": {
+            "position": "RB"
+        },
+        "Khari Blasingame": {
+            "position": "RB"
+        },
+        "Will Shipley": {
+            "position": "RB"
+        },
+        "Ty Chandler": {
+            "position": "RB"
+        },
+        "Dante Miller": {
+            "position": "RB"
+        },
+        "Michael Wilson": {
+            "position": "WR"
+        },
+        "David Bell": {
+            "position": "WR"
+        },
+        "Skyy Moore": {
+            "position": "WR"
+        },
+        "Tim Patrick": {
+            "position": "WR"
+        },
+        "Malik Heath": {
+            "position": "WR"
+        },
+        "Mark Andrews": {
+            "position": "TE"
+        },
+        "Andrew Beck": {
+            "position": "TE"
+        },
+        "Parker Romo": {
+            "position": "K"
+        },
+        "New York Jets": {
+            "position": "DST"
+        }
+    }
+]

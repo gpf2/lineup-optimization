@@ -5,12 +5,12 @@ from helperfunct import generate_lineups, initialize_player_data
 from integer_program import optimize_lineup_integer
 from linear_programs import optimize_lineup_simplex, optimize_lineup_interior
 from linear_evaluate import is_valid_roster
-
-def compare_programs(evals, optimize_lineup_linear):
+# import json
+    
+def compare_programs(options, optimize_lineup_linear):
     res = defaultdict(list)
-    options = generate_lineups(evals)
 
-    for i in range(evals):
+    for i in range(25):
         players = initialize_player_data(options[i])
         #print(f"running eval {i}")
         for week in range(1, 16):  
@@ -18,14 +18,14 @@ def compare_programs(evals, optimize_lineup_linear):
             lp_start = time.time()
             lp_roster, lp_proj_score = optimize_lineup_linear(players, week)
             lp_time = time.time() - lp_start
-            lp_valid = is_valid_roster(lp_roster) 
+            lp_valid = is_valid_roster(lp_roster, players) 
             #print(f"lproster: {lp_roster}")
         
             # time ip & make sure roster is valid
             ip_start = time.time()
             ip_roster, ip_proj_score = optimize_lineup_integer(players, week)
             ip_time = time.time() - ip_start
-            ip_valid = is_valid_roster(ip_roster)
+            ip_valid = is_valid_roster(ip_roster, players)
 
             # get actual scores for players selected to start in lp & ip
             lp_actual_score = sum(players[p]["scored points"][week - 1] for p in lp_roster)
@@ -34,6 +34,8 @@ def compare_programs(evals, optimize_lineup_linear):
             # compare error for prediction between lp & ip IDK if we need
             lp_pred_error = abs(lp_proj_score - lp_actual_score)
             ip_pred_error = abs(ip_proj_score - ip_actual_score)
+
+            # compare the actual scores of all of the rosters TODO
 
             res["lp_score"].append(lp_actual_score)
             res["ip_score"].append(ip_actual_score)
@@ -59,8 +61,10 @@ def compare_programs(evals, optimize_lineup_linear):
         "avg_ip_pred_error": float(np.mean(res["ip_pred_error"]))    
     }
 
-print("running for simplex")
-print(compare_programs(10, optimize_lineup_simplex))
-
-print("running for interior")
-print(compare_programs(10, optimize_lineup_interior))
+# options = generate_lineups(25)
+# with open("generated_lineups.json", "w") as f:
+#     json.dump(options, f, indent=4)
+# print("running for simplex")
+# print(compare_programs(options, optimize_lineup_simplex))
+# print("running for interior")
+# print(compare_programs(options, optimize_lineup_interior))

@@ -1,10 +1,11 @@
 from linear_programs import *
+from integer_program import *
 from stochastic_montecarlo import generate_valid_rosters
 from helperfunct import generate_lineups, initialize_player_data
 same = 0
 better = 0
 #checks if a returned roster is actually valid
-def is_valid_roster(roster):
+def is_valid_roster(roster,players):
     positions = ['QB', 'RB', 'RB', 'WR', 'WR', 'TE', 'K', 'DST', 'FLEX']
     for player in roster:
         try:
@@ -32,8 +33,8 @@ for i in range(num_evals):
     same_proj = 0
     for week in range(1, 15):
         #get lp roster
-        roster, expected_score = optimize_lineup_interior(players, week)
-        #print(is_valid_roster(roster))
+        roster, expected_score = optimize_lineup_integer(players, week)
+        #print(is_valid_roster(roster,players))
         #print("Guessed score: ", expected_score)
 
         #compare actual scored points vs what lp guessed
@@ -94,10 +95,10 @@ for i in range(num_evals):
                     players[player]["weights"][1]-=0.1
                     players[player]["weights"][0]+=0.1
         players[player]["guessed scores"] = [0, 0, 0]
-    if is_valid_roster(roster):
+    if is_valid_roster(roster,players):
         same+=same_proj
         better+=beat_proj
     else:
         print(1)
-print(same/num_evals)
-print(better/num_evals)
+# print(same/num_evals)
+# print(better/num_evals)
