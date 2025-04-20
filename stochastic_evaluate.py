@@ -2,27 +2,37 @@
 
 from stochastic_montecarlo import *
 from allie_rostergen import *
+import time
 
+with open('json/generated_lineups.json', 'r') as file:
+        options = json.load(file)
 same = 0
 better = 0
-num_evals = 100
-options = generate_lineups(num_evals)
+num_evals = len(options)
+#options = generate_lineups(num_evals)
+results = []
 for i in range(num_evals):
-    print(i)
+    team_res = {'times': [], 'proj':[], 'actual':[]}
+    print(f"Team {i}")
     num_better = 0
     same_proj = 0
     beat_proj = 0
     players = initialize_player_data(options[i])
-    for week in range(1, 15):
-        print(week)
+    for week in range(1, 16):
+        start = time.time()
         #get monte carlo roster
         roster, expected_score, rosters = monte_carlo_optimization(players, week)
+        end = time.time()
+        print(f"week {week} took {end-start}")
+        team_res["times"].append(end-start)
+        team_res['proj'].append(expected_score)
         #print("Guessed score: ", expected_score)
 
         #compare actual scored points vs what monte carlo guessed
         total_score = 0
         for player in roster:
             total_score+=(players[player]["scored points"])[week-1]
+        team_res['actual'].append(total_score)
         #print("Actual score:", total_score)
 
         count=0
@@ -92,14 +102,15 @@ for i in range(num_evals):
                     ratio = ratio/10
                     players[player]["weights"][3]-=ratio
         players[player]["guessed scores"] = [0, 0, 0]
-    '''
+    results.append(team_res)
     print(f"*****************************************************************")
     print(f"Average # of Higher Teams: {num_better/14}")
     print(f"Beat Projected {beat_proj} times - Same Projected {same_proj} times")
     print(f"*****************************************************************")
-    '''
     same += same_proj
     better += beat_proj
-
+indexed_dict = {i: item for i, item in enumerate(results)}
+with open("stochastic_results.json", "w") as f:
+    json.dump(indexed_dict, f, indent=4)
 print(same/num_iterations)
 print(better/num_iterations)
