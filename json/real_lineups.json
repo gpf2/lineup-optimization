@@ -1,0 +1,252 @@
+[
+    {
+        "Josh Allen": {
+            "position": "QB"
+        },
+        "Jayden Daniels": {
+            "position": "QB"
+        },
+        "Nico Collins": {
+            "position": "WR"
+        },
+        "Tyreek Hill": {
+            "position": "WR"
+        },
+        "A.J. Brown": {
+            "position": "WR"
+        },
+        "Justin Jefferson": {
+            "position": "WR"
+        },
+        "Terry McLaurin": {
+            "position": "WR"
+        },
+        "Bucky Irving": {
+            "position": "RB"
+        },
+        "James Cook": {
+            "position": "RB"
+        },
+        "Saquon Barkley": {
+            "position": "RB"
+        },
+        "Jonathan Taylor": {
+            "position": "RB"
+        },
+        "Tony Pollard": {
+            "position": "RB"
+        },
+        "Trey McBride": {
+            "position": "TE"
+        },
+        "Kyle Pitts": {
+            "position": "TE"
+        },
+        "New York Jets": {
+            "position": "DST"
+        },
+        "Jake Elliott": {
+            "position": "K"
+        }
+    },
+    {
+        "Jayden Daniels": {
+            "position": "QB"
+        },
+        "Jalen Hurts": {
+            "position": "QB"
+        },
+        "Jordan Addison": {
+            "position": "WR"
+        },
+        "Terry McLaurin": {
+            "position": "WR"
+        },
+        "Ja'Marr Chase": {
+            "position": "WR"
+        },
+        "Garrett Wilson": {
+            "position": "WR"
+        },
+        "A.J. Brown": {
+            "position": "WR"
+        },
+        "Christian McCaffrey": {
+            "position": "RB"
+        },
+        "De'Von Achane": {
+            "position": "RB"
+        },
+        "Chase Brown": {
+            "position": "RB"
+        },
+        "Rico Dowdle": {
+            "position": "RB"
+        },
+        "Saquon Barkley": {
+            "position": "RB"
+        },
+        "Kyle Pitts": {
+            "position": "TE"
+        },
+        "Sam LaPorta": {
+            "position": "TE"
+        },
+        "Baltimore Ravens": {
+            "position": "DST"
+        },
+        "Jake Elliott": {
+            "position": "K"
+        }
+    },
+    {
+        "Jalen Hurts": {
+            "position": "QB"
+        },
+        "Josh Allen": {
+            "position": "QB"
+        },
+        "CeeDee Lamb": {
+            "position": "WR"
+        },
+        "Tee Higgins": {
+            "position": "WR"
+        },
+        "Puka Nacua": {
+            "position": "WR"
+        },
+        "Amon-Ra St. Brown": {
+            "position": "WR"
+        },
+        "Tyreek Hill": {
+            "position": "WR"
+        },
+        "Josh Jacobs": {
+            "position": "RB"
+        },
+        "Jahmyr Gibbs": {
+            "position": "RB"
+        },
+        "Isiah Pacheco": {
+            "position": "RB"
+        },
+        "Joe Mixon": {
+            "position": "RB"
+        },
+        "Christian McCaffrey": {
+            "position": "RB"
+        },
+        "Sam LaPorta": {
+            "position": "TE"
+        },
+        "Travis Kelce": {
+            "position": "TE"
+        },
+        "New York Jets": {
+            "position": "DST"
+        },
+        "Justin Tucker": {
+            "position": "K"
+        }
+    },
+    {
+        "Patrick Mahomes": {
+            "position": "QB"
+        },
+        "Jayden Daniels": {
+            "position": "QB"
+        },
+        "Brian Thomas Jr.": {
+            "position": "WR"
+        },
+        "Ja'Marr Chase": {
+            "position": "WR"
+        },
+        "Garrett Wilson": {
+            "position": "WR"
+        },
+        "Mike Evans": {
+            "position": "WR"
+        },
+        "Puka Nacua": {
+            "position": "WR"
+        },
+        "Breece Hall": {
+            "position": "RB"
+        },
+        "Derrick Henry": {
+            "position": "RB"
+        },
+        "Isiah Pacheco": {
+            "position": "RB"
+        },
+        "Jonathan Taylor": {
+            "position": "RB"
+        },
+        "Chuba Hubbard": {
+            "position": "RB"
+        },
+        "Trey McBride": {
+            "position": "TE"
+        },
+        "Sam LaPorta": {
+            "position": "TE"
+        },
+        "San Francisco 49ers": {
+            "position": "DST"
+        },
+        "Jake Elliott": {
+            "position": "K"
+        }
+    },
+    {
+        "Lamar Jackson": {
+            "position": "QB"
+        },
+        "Josh Allen": {
+            "position": "QB"
+        },
+        "Davante Adams": {
+            "position": "WR"
+        },
+        "Marvin Harrison Jr.": {
+            "position": "WR"
+        },
+        "Mike Evans": {
+            "position": "WR"
+        },
+        "Puka Nacua": {
+            "position": "WR"
+        },
+        "CeeDee Lamb": {
+            "position": "WR"
+        },
+        "Alvin Kamara": {
+            "position": "RB"
+        },
+        "Christian McCaffrey": {
+            "position": "RB"
+        },
+        "Tony Pollard": {
+            "position": "RB"
+        },
+        "Chase Brown": {
+            "position": "RB"
+        },
+        "Jahmyr Gibbs": {
+            "position": "RB"
+        },
+        "Kyle Pitts": {
+            "position": "TE"
+        },
+        "Mark Andrews": {
+            "position": "TE"
+        },
+        "New York Jets": {
+            "position": "DST"
+        },
+        "Brandon Aubrey": {
+            "position": "K"
+        }
+    }
+]
