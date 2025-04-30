@@ -46,6 +46,7 @@ def compare_programs(options, optimize_lineup_linear):
             res["ip_valid"].append(ip_valid)
             res["lp_pred_error"].append(lp_pred_error)
             res["ip_pred_error"].append(ip_pred_error)
+        break
 
     #print("hi")
     #print(res["lp_valid"], res["ip_valid"])

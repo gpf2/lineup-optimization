@@ -2,6 +2,7 @@ from linear_programs import *
 from integer_program import *
 from stochastic_montecarlo import generate_valid_rosters
 from helperfunct import generate_lineups, initialize_player_data
+import json
 same = 0
 better = 0
 #checks if a returned roster is actually valid
@@ -21,10 +22,14 @@ def is_valid_roster(roster,players):
     
     return len(positions)==0
 
-num_evals = 100
+with open('json/generated_lineups.json', 'r') as file:
+        options = json.load(file)
+num_evals = len(options)
+'''
 options = generate_lineups(num_evals)
 for op in options:
     assert(len(op)==16)
+'''
 for i in range(num_evals):
     players = initialize_player_data(options[i])
     rosters = generate_valid_rosters(players)
@@ -41,7 +46,7 @@ for i in range(num_evals):
         total_score = 0
         for player in roster:
             total_score+=(players[player]["scored points"])[week-1]
-        #print("Actual score:", total_score)
+        print("Actual score:", total_score)
 
         count=0
         better_scores = []
@@ -72,8 +77,8 @@ for i in range(num_evals):
         projected_roster_score = 0
         for player in best_projected_roster:
             projected_roster_score+=(players[player]["scored points"])[week-1]
-        #print(f"Projected Roster scored {projected_roster_score}")
-        #print()
+        print(f"Projected Roster scored {projected_roster_score}")
+        print()
 
         if projected_roster_score<total_score:
             beat_proj+=1

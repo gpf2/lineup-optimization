@@ -112,5 +112,5 @@ for i in range(num_evals):
 indexed_dict = {i: item for i, item in enumerate(results)}
 with open("stochastic_results.json", "w") as f:
     json.dump(indexed_dict, f, indent=4)
-print(same/num_iterations)
-print(better/num_iterations)
+print(same/num_evals)
+print(better/num_evals)

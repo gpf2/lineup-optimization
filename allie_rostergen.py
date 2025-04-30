@@ -94,7 +94,7 @@ def initialize_player_data(players):
             players[p]["boombust"] = (info["Boom"], info["Bust"])
         else:
             players[p]["boombust"] = (0,0)
-        players[p]["weights"] = [0.5, 0.5, 1.1, 0.9]
+        players[p]["weights"] = [0.5, 0.5, 1.2, 0.8]
         players[p]["guessed scores"] = [0, 0, 0]
     return players
 

@@ -27,15 +27,15 @@ def simulate_player_score(players, player, week):
     p = players[player]
     
     #if its the first week, only account for the projected points
-    if week==1:
+    if week==1 and len(p["prev season"])==0:
         base = (p["projected points"])[week-1]
         past_guess = None
         projected = base
     #otherwise, combine past performance this season and the projected points
     else:
-        #mean, std = weighted_avg_std(p["prev season"]+p["scored points"][:week-1])
-        mean = np.mean(p["prev season"]+p["scored points"][:week-1])
-        std = np.std(p["prev season"]+p["scored points"][:week-1])
+        mean, std = weighted_avg_std(p["prev season"]+p["scored points"][:week-1])
+        #mean = np.mean(p["prev season"]+p["scored points"][:week-1])
+        #std = np.std(p["prev season"]+p["scored points"][:week-1])
         #take a random var from a normal distribution of the past performances
         #this season
         past_guess = max(np.random.normal(mean, std), 0)
