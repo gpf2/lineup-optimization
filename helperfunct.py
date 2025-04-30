@@ -220,7 +220,6 @@ def generate_lineups(num_rosters):
     with open('json/weekly_fantasy_scores_2024.json', 'r') as file:
         data = json.load(file)
 
-
     generated_rosters = []
     positions = {'QB':2, 'RB':5, 'WR':5, 'TE':2, 'K':1, 'DST':1}
 
@@ -311,3 +310,41 @@ def initialize_player_data(players):
         players[p]["weights"] = [0.5, 0.5, 1.1, 0.9]
         players[p]["guessed scores"] = [0, 0, 0]
     return players
+
+def generate_random_lineup(players):
+    pos_groups = {"QB": [], "RB": [], "WR": [], "TE": [], "K": [], "DST": []}
+    for player in players:
+        curr_pos = players[player]["position"]
+        if curr_pos in pos_groups:
+            pos_groups[curr_pos].append(player)
+    lineup = []
+
+    try:
+        lineup.append(random.choice(pos_groups['QB']))
+        lineup.append(random.choice(pos_groups['K']))
+        lineup.append(random.choice(pos_groups['DST']))
+        flex = 1
+
+        num_rbs = random.choice([2, 3])
+        if len(pos_groups['RB']) < num_rbs:
+            return None
+        lineup += random.sample(pos_groups['RB'], num_rbs)
+        if num_rbs ==3: flex = 0
+
+        if flex == 0: num_wrs = 2
+        else: num_wrs = random.choice([2, 3])
+
+        if num_wrs == 3: flex = 0
+        lineup += random.sample(pos_groups['WR'], num_wrs)
+
+        if flex == 0:
+            num_tes = 1
+        else: num_tes = 2   
+        lineup += random.sample(pos_groups['TE'], num_tes)
+
+        if len(lineup) == 9:
+            return lineup
+        else:
+            return None
+    except:
+        return None 

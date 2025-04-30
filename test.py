@@ -1,11 +1,11 @@
 import numpy as np
 import time
 from collections import defaultdict
-from helperfunct import generate_lineups, initialize_player_data
+from helperfunct import generate_lineups, initialize_player_data, generate_random_lineup
 from integer_program import optimize_lineup_integer
 from linear_programs import optimize_lineup_simplex, optimize_lineup_interior
 from linear_evaluate import is_valid_roster
-# import json
+import json
     
 def compare_programs(options, optimize_lineup_linear):
     res = defaultdict(list)
@@ -68,3 +68,27 @@ def compare_programs(options, optimize_lineup_linear):
 # print(compare_programs(options, optimize_lineup_simplex))
 # print("running for interior")
 # print(compare_programs(options, optimize_lineup_interior))
+
+def eval_random_lineup():
+    with open("json/generated_lineups.json", "r") as f:
+        options = json.load(f)
+    res = defaultdict(list)
+    for i in range(25):
+        players = initialize_player_data(options[i])
+        for week in range(1, 16):
+            start = time.time()
+            lineup = generate_random_lineup(players)
+            random_time = time.time() - start
+            random_valid = is_valid_roster(lineup, players)
+            actual_score = sum(players[p]["scored points"][week - 1] for p in lineup)
+            res["random_score"].append(actual_score)
+            res["random_time"].append(random_time)
+            res["valid"].append(random_valid)
+
+    return {
+        "avg_random_score": float(np.mean(res["random_score"])),
+        "avg_random_time": float(np.mean(res["random_time"])),
+        "valid_rate": float(np.sum(res["valid"])/len(res["valid"])),
+    }
+
+print(eval_random_lineup())
