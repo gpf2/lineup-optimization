@@ -4,7 +4,7 @@ from stochastic_montecarlo import *
 from allie_rostergen import *
 import time
 
-with open('json/generated_lineups.json', 'r') as file:
+with open('json/real_lineups.json', 'r') as file:
         options = json.load(file)
 same = 0
 better = 0
@@ -110,7 +110,7 @@ for i in range(num_evals):
     same += same_proj
     better += beat_proj
 indexed_dict = {i: item for i, item in enumerate(results)}
-with open("stochastic_results.json", "w") as f:
+with open("stochastic_results2.json", "w") as f:
     json.dump(indexed_dict, f, indent=4)
 print(same/num_evals)
 print(better/num_evals)
