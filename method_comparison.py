@@ -62,14 +62,6 @@ def compare_programs(options, optimize_lineup_linear):
         "avg_ip_pred_error": float(np.mean(res["ip_pred_error"]))    
     }
 
-# options = generate_lineups(25)
-# with open("generated_lineups.json", "w") as f:
-#     json.dump(options, f, indent=4)
-# print("running for simplex")
-# print(compare_programs(options, optimize_lineup_simplex))
-# print("running for interior")
-# print(compare_programs(options, optimize_lineup_interior))
-
 def eval_random_lineup():
     with open("json/generated_lineups.json", "r") as f:
         options = json.load(f)
